@@ -1,0 +1,487 @@
+Trial_set,Trial,det,ID,appr
+1,1,Rpela,Batman,2
+1,2,Mband,Batman,3
+1,3,Control,Batman,3
+1,4,Wax,unknown,1
+1,5,SS,Batman,1
+1,6,Mleash,Batman,2
+2,1,Wax,unknown,2
+2,2,Mleash,Anchor,3
+2,3,Control,unknown,1
+2,3,Control,Anchor,5
+2,4,Mband,unknown,1
+2,4,Mband,Anchor,1
+2,5,SS,unknown,2
+2,5,SS,Anchor,2
+2,6,Rpela,unknown,2
+3,1,Mleash,unknown,1
+3,1,Mleash,Shark 3,2
+3,2,Wax,Anchor,2
+3,3,Control,Anchor,8
+3,3,Control,Franklin,1
+3,4,Mband,Franklin,4
+3,5,SS,Anchor,3
+3,5,SS,Franklin,6
+3,6,Rpela,Franklin,4
+4,1,Wax,unknown,1
+4,1,Wax,Franklin,1
+4,2,Rpela,Franklin,3
+4,3,SS,Franklin,9
+4,4,Control,Franklin,2
+4,5,Mleash,unknown,1
+4,5,Mleash,Franklin,2
+4,6,Mband,Franklin,3
+5,1,SS,Cipher,18
+5,2,Wax,Franklin,2
+5,3,Mleash,Franklin,4
+5,4,Control,Franklin,2
+5,4,Control,Shark 3,1
+5,5,Rpela,Franklin,1
+5,5,Rpela,Shark 3,1
+5,6,Mband,Franklin,1
+6,1,Rpela,Franklin,1
+6,2,SS,unknown,3
+6,2,SS,Cipher,7
+6,3,Control,Pavarotti,2
+6,4,Mband,Franklin,1
+6,5,Wax,unknown,2
+6,5,Wax,Pavarotti,3
+6,6,Mleash,Franklin,2
+6,6,Mleash,Owen Wilson,3
+6,6,Mleash,Pavarotti,2
+7,1,Control,Pavarotti,1
+7,2,Mleash,Pavarotti,1
+7,3,SS,Crescent,1
+7,3,SS,Pavarotti,2
+7,4,Mband,Pavarotti,2
+7,5,Rpela,Pavarotti,2
+7,6,Wax,Pavarotti,3
+8,1,Mband,Pavarotti,1
+8,2,Mleash,unknown,1
+8,2,Mleash,Pavarotti,1
+8,3,Control,unknown,1
+8,3,Control,Pavarotti,1
+8,4,SS,Dif,2
+8,4,SS,unknown,4
+8,5,Wax,unknown,1
+8,5,Wax,Pavarotti,1
+8,6,Rpela,unknown,1
+8,6,Rpela,Pavarotti,1
+9,1,Wax,Dif,3
+9,2,Rpela,Dif,3
+9,3,Mband,unknown,2
+9,3,Mband,Pavarotti,1
+9,4,Control,Henry,2
+9,4,Control,Manta,5
+9,5,Mleash,Henry,1
+9,6,SS,unknown,2
+9,6,SS,Henry,7
+9,6,SS,Manta,2
+10,1,Mband,Henry,5
+10,2,Wax,Henry,1
+10,3,Rpela,Henry,3
+10,4,SS,Henry,13
+10,5,Mleash,unknown,1
+10,5,Mleash,Henry,1
+10,6,Control,Henry,1
+10,6,Control,Nollsey,6
+11,1,Control,Henry,4
+11,2,Rpela,Henry,1
+11,3,Wax,Nollsey,16
+11,4,SS,unknown,3
+11,4,SS,Crescent,3
+11,4,SS,Manta,5
+11,4,SS,Nollsey,3
+11,5,Mband,unknown,2
+11,5,Mband,Backscratch,2
+11,5,Mband,Crescent,9
+11,5,Mband,Nollsey,2
+11,6,Mleash,Henry,1
+12,1,SS,unknown,2
+12,1,SS,Franklin,3
+12,1,SS,Two bit,2
+12,2,Rpela,Bishop,2
+12,2,Rpela,Gill,2
+12,2,Rpela,Jumpman,3
+12,3,Control,Bishop,1
+12,3,Control,Jumpman,4
+12,4,Wax,Gill,4
+12,5,Mband,unknown,1
+12,5,Mband,Franklin,1
+12,5,Mband,Jumpman,1
+12,6,Mleash,unknown,1
+12,6,Mleash,Franklin,2
+12,6,Mleash,Jumpman,4
+13,1,Mband,unknown,1
+13,1,Mband,Moonface,1
+13,2,Control,Moonface,4
+13,3,SS,Moonface,7
+13,4,Rpela,Jumpman,5
+13,4,Rpela,Moonface,5
+13,5,Mleash,Moonface,2
+13,6,Wax,Moonface,3
+14,1,Control,Moonface,3
+14,2,Wax,Moonface,5
+14,3,Mband,Moonface,1
+14,4,SS,Moonface,7
+14,5,Mleash,Moonface,3
+14,6,Rpela,Moonface,6
+15,1,Wax,Jumpman,6
+15,2,SS,unknown,2
+15,2,SS,Gill,7
+15,3,Mband,unknown,1
+15,3,Mband,Gill,5
+15,4,Rpela,unknown,1
+15,4,Rpela,Gill,7
+15,4,Rpela,Jumpman,6
+15,5,Control,unknown,2
+15,5,Control,Gill,2
+15,6,Mleash,unknown,2
+15,6,Mleash,Jumpman,3
+16,1,Rpela,unknown,4
+16,1,Rpela,Franklin,2
+16,1,Rpela,Gill,3
+16,1,Rpela,Jumpman,1
+16,2,SS,unknown,4
+16,2,SS,London,1
+16,3,Wax,unknown,1
+16,3,Wax,Alpha 5,15
+16,4,Mband,unknown,1
+16,4,Mband,Alpha 5,4
+16,4,Mband,Curl,3
+16,5,Control,unknown,3
+16,5,Control,Alpha 5,1
+16,5,Control,Curl,9
+16,6,Mleash,unknown,1
+16,6,Mleash,Alpha 5,2
+17,1,SS,unknown,2
+17,1,SS,Alpha 5,8
+17,2,Mband,Alpha 5,3
+17,3,Wax,Alpha 5,1
+17,4,Mleash,Alpha 5,2
+17,5,Control,Alpha 5,1
+17,5,Control,Holepunch,4
+17,6,Rpela,Alpha 5,5
+18,1,Mleash,Alpha 5,1
+18,1,Mleash,Holepunch,2
+18,1,Mleash,Jumpman,1
+18,2,Rpela,Holepunch,1
+18,3,Control,Holepunch,2
+18,3,Control,Jumpman,2
+18,4,SS,unknown,2
+18,4,SS,Alpha 5,5
+18,4,SS,Holepunch,1
+18,5,Mband,Holepunch,1
+18,6,Wax,Alpha 5,3
+19,1,SS,Holepunch,4
+19,1,SS,Undercoat,3
+19,2,Rpela,Holepunch,3
+19,3,Control,unknown,1
+19,3,Mband,Holepunch,6
+19,4,Wax,Holepunch,1
+19,4,Wax,Undercoat,1
+19,5,Mleash,Alpha 5,1
+19,5,Mleash,Curl,5
+19,5,Mleash,Holepunch,1
+19,6,Control,Alpha 5,2
+19,6,Control,Holepunch,1
+20,1,Rpela,Holepunch,1
+20,2,Mband,Alpha 5,2
+20,3,Mband,Holepunch,1
+20,3,Wax,Holepunch,3
+20,4,Control,unknown,1
+20,4,Control,Holepunch,1
+20,5,Mleash,Alpha 5,6
+20,6,SS,Holepunch,2
+21,1,Mband,Alpha 5,1
+21,1,Mband,Aquaman,4
+21,1,Mband,Gill,3
+21,2,Control,Alpha 5,5
+21,2,Control,Aquaman,4
+21,3,SS,unknown,1
+21,3,SS,Alpha 5,12
+21,3,SS,Aquaman,9
+21,4,Wax,Aquaman,1
+21,4,Wax,Shark Watch,1
+21,5,Mleash,Shark Watch,4
+21,6,Rpela,Alpha 5,1
+21,6,Rpela,Shark Watch,2
+22,1,Mleash,Shark Watch,3
+22,2,Control,Aquaman,1
+22,2,Control,Shark Watch,3
+22,3,Wax,Shark Watch,1
+22,4,Rpela,Shark Watch,2
+22,5,Mband,Shark Watch,5
+22,6,SS,Shark Watch,8
+23,1,Mband,Shark Watch,1
+23,3,Mleash,Shark Watch,1
+23,4,SS,Shark Watch,3
+23,5,Control,Shark Watch,10
+23,6,Wax,Horseshoe,2
+23,6,Wax,Shark Watch,3
+24,1,Rpela,unknown,1
+24,1,Rpela,Alpha 5,1
+24,1,Rpela,Aquaman,1
+24,1,Rpela,Shark Watch,13
+24,2,Mband,Alpha 5,7
+24,2,Mband,Shark Watch,6
+24,3,SS,unknown,1
+24,3,SS,Shark Watch,8
+24,4,Control,Curl,1
+24,5,Wax,Shark Watch,1
+24,6,Mleash,Shark Watch,1
+25,1,Control,Alpha 5,1
+25,2,Wax,Alpha 5,2
+25,3,Mleash,Alpha 5,2
+25,3,Mleash,Shark Watch,1
+25,4,SS,Shark Watch,7
+25,5,Mband,Alpha 5,1
+25,6,Rpela,Aquaman,1
+25,6,Rpela,Shark Watch,12
+26,1,Mband,Shark Watch,3
+26,2,Mleash,Shark Watch,10
+26,2,Mleash,unknown,7
+26,3,SS,unknown,9
+26,3,SS,Aquaman,1
+26,3,SS,Shark Watch,19
+26,4,Wax,unknown,1
+26,4,Wax,Aquaman,5
+26,4,Wax,Shark Watch,12
+26,5,Rpela,unknown,3
+26,5,Rpela,Alpha 5,12
+26,5,Rpela,Aquaman,2
+26,6,Control,Alpha 5,10
+26,6,Control,Shark Watch,5
+27,1,Wax,Shark Watch,6
+27,2,Rpela,Shark Watch,1
+27,2,Wax,Shark Watch,5
+27,3,Mleash,Alpha 5,3
+27,4,SS,unknown,5
+27,4,SS,Alpha 5,12
+27,4,SS,Holepunch,3
+27,4,SS,Shark Watch,7
+27,5,Mband,Shark Watch,5
+27,6,Control,Holepunch,2
+28,1,Mleash,unknown,1
+28,1,Mleash,Alpha 5,1
+28,1,Mleash,Holepunch,1
+28,2,Control,Alpha 5,3
+28,3,Rpela,unknown,2
+28,4,SS,unknown,6
+28,4,SS,Alpha 5,4
+28,4,SS,Aquaman,2
+28,4,SS,Holepunch,2
+28,4,SS,Shark Watch,3
+28,5,Wax,Alpha 5,2
+28,6,Mband,unknown,1
+28,6,Mband,Alpha 5,3
+28,6,Mband,Curl,2
+28,6,Mband,Shark Watch,4
+29,1,Control,unknown,1
+29,1,Control,Alpha 5,1
+29,1,Control,Shark Watch,2
+29,2,Wax,Alpha 5,1
+29,3,Mband,unknown,3
+29,3,Mband,Alpha 5,2
+29,3,Mband,Holepunch,2
+29,4,Rpela,unknown,4
+29,4,Rpela,Holepunch,1
+29,4,Rpela,Shark Watch,1
+29,5,Mleash,Holepunch,1
+30,1,Mband,Holepunch,1
+30,1,Mband,Shark Watch,1
+30,2,Control,Shark Watch,3
+30,4,Wax,unknown,6
+30,4,Wax,Holepunch,1
+30,4,Wax,Jumpman,4
+30,4,Wax,Shark Watch,3
+30,5,Rpela,unknown,4
+30,5,Rpela,Alpha 5,3
+30,6,Mleash,Alpha 5,3
+30,6,Mleash,Shark Watch,4
+31,1,Rpela,Alpha 5,13
+31,2,Wax,Alpha 5,8
+31,3,Mband,Aquaman,7
+31,3,Mband,Jesse,6
+31,4,Mleash,Aquaman,1
+31,4,Mleash,Jesse,3
+31,5,SS,Backscratch,12
+31,5,SS,Jumpman,1
+31,6,Control,Backscratch,5
+32,1,SS,Jack,1
+32,1,SS,Undercoat,2
+32,2,Wax,Backscratch,2
+32,3,Rpela,Curl,5
+32,3,Rpela,Jack,2
+32,3,Rpela,Manta,2
+32,4,Mband,Curl,1
+32,5,Control,Curl,7
+32,5,Control,Jack,1
+32,6,Mleash,Curl,3
+33,1,Rpela,Gilbert,8
+33,2,Mleash,Gilbert,4
+33,3,Wax,Gilbert,2
+33,3,Wax,Jack,6
+33,4,SS,unknown,1
+33,4,SS,Camo,1
+33,4,SS,Gilbert,2
+33,4,SS,Jack,16
+33,5,Mband,Gilbert,14
+33,5,Mband,Jack,1
+33,6,Control,Curl,3
+34,1,Mleash,Curl,3
+34,1,Mleash,Jack,2
+34,2,Control,Curl,1
+34,2,Control,Gilbert,6
+34,2,Control,Jack,3
+34,2,Control,Undercoat,3
+34,3,Wax,Curl,1
+34,3,Wax,Gilbert,6
+34,3,Wax,Jack,7
+34,4,Mband,Gilbert,2
+34,5,Rpela,Gilbert,1
+34,6,SS,Gilbert,2
+35,1,SS,unknown,1
+35,1,SS,Curl,6
+35,1,SS,Gilbert,10
+35,1,SS,Jack,4
+35,1,SS,Undercoat,2
+35,2,Mband,Jack,13
+35,2,Mband,Undercoat,6
+35,3,Wax,Jack,10
+35,4,Mleash,Jack,4
+35,5,Rpela,unknown,1
+35,5,Rpela,Jack,8
+35,6,Control,Jack,5
+36,1,Rpela,Jack,2
+36,2,Control,Jack,6
+36,3,SS,Dom,2
+36,3,SS,Jack,11
+36,4,Wax,Eyebrows,2
+36,4,Wax,Jack,2
+36,5,Mleash,Jack,3
+36,6,Mband,Jack,2
+37,1,SS,Jack,26
+37,2,Mband,Jack,3
+37,3,Mleash,Jack,3
+37,4,Wax,Camo,4
+37,5,Rpela,Jack,1
+37,6,Control,Jack,1
+38,1,Control,unknown,1
+38,1,Control,Jack,2
+38,2,Mband,Camo,1
+38,2,Mband,Jack,1
+38,3,Rpela,Camo,3
+38,3,Rpela,Jack,2
+38,4,SS,unknown,1
+38,4,SS,Jack,4
+38,5,Wax,Jack,4
+38,6,Mleash,Dom,3
+39,1,SS,unknown,1
+39,1,SS,Camo,7
+39,2,Wax,Dom,7
+39,3,Control,Backscratch,2
+39,3,Control,Dom,1
+39,4,Mband,Eyebrows,4
+39,4,Mband,Horseshoe,6
+39,5,Rpela,Shark Watch,33
+39,6,Mleash,Shark Watch,4
+40,1,Mleash,Shark Watch,14
+40,2,SS,Backscratch,4
+40,2,SS,Eyebrows,4
+40,2,SS,Shark Watch,9
+40,3,Wax,Backscratch,3
+40,4,Control,Shark Watch,3
+40,5,Rpela,Backscratch,5
+40,5,Rpela,Manta,3
+40,5,Rpela,Shark Watch,16
+40,6,Mband,Backscratch,3
+40,6,Mband,Manta,21
+41,1,Mleash,Eyebrows,4
+41,1,Mleash,Manta,9
+41,2,Wax,Anchor,4
+41,2,Wax,Backscratch,1
+41,3,Mband,Curl,14
+41,3,Mband,Manta,10
+41,4,SS,Anchor,1
+41,4,SS,Backscratch,5
+41,4,SS,Manta,12
+41,5,Rpela,Curl,2
+41,5,Rpela,Manta,7
+41,6,Control,Curl,2
+42,1,Wax,Claw,2
+42,1,Wax,Turkey,3
+42,2,Control,Claw,2
+42,2,Control,Turkey,6
+42,3,Rpela,Turkey,2
+42,4,SS,Turkey,20
+42,5,Mleash,Claw,6
+42,6,Mband,Claw,5
+42,6,Mband,Henry,1
+43,1,Wax,Henry,2
+43,2,Mleash,Henry,7
+43,2,Mleash,Turkey,1
+43,3,SS,Claw,1
+43,3,SS,Turkey,15
+43,4,Mband,unknown,4
+43,4,Mband,Phineas,4
+43,4,Mband,Turkey,2
+43,5,Rpela,Turkey,3
+43,6,Control,Turkey,9
+44,1,Control,Turkey,1
+44,2,SS,unknown,1
+44,2,SS,Turkey,13
+44,3,Rpela,Turkey,6
+44,4,Mband,Turkey,2
+44,5,Wax,Turkey,2
+44,6,Mleash,Turkey,1
+45,1,Control,Turkey,1
+45,2,SS,Turkey,6
+45,3,Mleash,Cupid,1
+45,4,Rpela,Turkey,4
+45,5,Mband,Turkey,2
+45,6,Wax,Turkey,3
+46,1,Mband,Higgins,12
+46,2,Rpela,Higgins,7
+46,3,SS,Higgins,1
+46,3,SS,Tasmania,2
+46,4,Control,Tasmania,2
+46,5,Mleash,Higgins,2
+46,6,Wax,Tasmania,1
+47,1,Mleash,Tasmania,3
+47,2,Rpela,unknown,1
+47,2,Rpela,Tasmania,1
+47,3,Wax,Tasmania,1
+47,4,Mband,Higgins,1
+47,5,Control,Tasmania,1
+47,6,SS,Tasmania,3
+48,1,SS,Tasmania,2
+48,2,Wax,Butters,2
+48,2,Wax,Tasmania,2
+48,3,Control,Tasmania,1
+48,4,Mband,Tasmania,3
+48,5,Rpela,Higgins,1
+48,6,Mleash,Butters,2
+48,6,Mleash,Tasmania,4
+49,1,Rpela,Higgins,3
+49,2,Mband,unknown,1
+49,2,Mband,Butters,8
+49,3,SS,Butters,6
+49,4,Control,unknown,1
+49,4,Control,Butters,3
+49,5,Wax,unknown,1
+49,5,Wax,Dunk,3
+49,5,Wax,Hamburglar,3
+49,6,Mleash,Ziggy,6
+50,1,Wax,Cupid,2
+50,1,Wax,Everest,12
+50,2,SS,Cupid,3
+50,2,SS,Everest,3
+50,2,SS,Hamburglar,3
+50,3,Rpela,Spot,2
+50,4,Mband,Hamburglar,3
+50,5,Mleash,Everest,2
+50,5,Mleash,Hamburglar,2
+50,6,Control,Everest,8
+50,6,Control,Hamburglar,1
+50,6,Control,Spot,13
