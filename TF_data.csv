@@ -1,0 +1,233 @@
+Trial_set,Trial,det,time,ID,Activity,dist,App_type,Intent,Reaction
+1,2,Mband,2.8144,Batman,Feeding,0,V,H,N
+2,2,Mleash,0.9078,Anchor,Feeding,0,S,M,N
+2,3,Control,10.8894,Anchor,Feeding,0,S,H,N
+3,3,Control,11.6916,Franklin,Feeding,0,S,H,N
+3,4,Mband,2.2464,Franklin,Feeding,0,S,H,N
+3,5,SS,11.83,Franklin,Feeding,0,S,H,N
+3,6,Rpela,7.0347,Franklin,Feeding,0,S,H,N
+4,1,Wax,14.9131,Franklin,Feeding,0,S,H,N
+4,2,Rpela,3.2395,Franklin,Feeding,0,S,H,N
+4,4,Control,2.9028,Franklin,Feeding,0,S,H,N
+4,5,Mleash,6.7706,Franklin,Feeding,0,S,H,N
+4,6,Mband,1.9064,Franklin,Feeding,0,S,H,N
+5,2,Wax,1.1572,Franklin,Feeding,0,S,H,N
+5,3,Mleash,1.5575,Franklin,Feeding,0,S,H,N
+5,4,Control,4.4528,Franklin,Feeding,0,S,H,N
+5,5,Rpela,3.8867,Shark 3,Feeding,0,V,H,N
+5,6,Mband,1.3467,Franklin,Feeding,0,S,H,N
+6,1,Rpela,0.6672,Franklin,Feeding,0,S,H,N
+6,3,Control,0.5942,Pavarotti,Feeding,0,S,H,N
+6,4,Mband,0.3556,Franklin,Feeding,0,S,H,N
+6,5,Wax,6.58,Pavarotti,Feeding,0,S,H,N
+6,6,Mleash,10.9684,Pavarotti,Feeding,0,S,H,N
+7,1,Control,1.9383,Pavarotti,Feeding,0,S,H,N
+7,2,Mleash,6.9011,Pavarotti,Feeding,0,S,H,N
+7,4,Mband,2.5733,Pavarotti,Feeding,0,S,H,N
+7,5,Rpela,3.1264,Pavarotti,Feeding,0,S,H,N
+7,6,Wax,5.0564,Pavarotti,Feeding,0,S,H,N
+8,1,Mband,4.1025,Pavarotti,Feeding,0,S,H,N
+8,2,Mleash,3.7528,unknown,Feeding,0,S,H,N
+8,3,Control,3.727,unknown,Feeding,0,S,H,N
+8,5,Wax,8.3942,unknown,Feeding,0,S,H,N
+8,6,Rpela,0.9089,unknown,Feeding,0,S,H,N
+9,1,Wax,4.4,Dif,Feeding,0,S,H,N
+9,2,Rpela,2.4,Dif,Feeding,0,S,H,N
+9,3,Mband,3.7953,unknown,Feeding,0,S,H,N
+9,4,Control,4.4422,Henry,Feeding,0,S,H,N
+9,5,Mleash,4.1575,Henry,Feeding,0,S,H,N
+10,1,Mband,12.2053,Henry,Feeding,0,S,H,N
+10,2,Wax,7.0292,Henry,Feeding,0,S,H,N
+10,3,Rpela,3.3678,Henry,Feeding,0,S,H,N
+10,5,Mleash,8.3967,Henry,Feeding,0,S,H,N
+11,1,Control,2.0939,Henry,Feeding,0,S,H,N
+11,2,Rpela,5.3097,Henry,Feeding,0,S,H,N
+11,6,Mleash,0.7508,Henry,Feeding,0,S,H,N
+12,3,Control,3.9192,Jumpman,Feeding,0,S,H,N
+12,4,Wax,3.8417,Gill,Feeding,0,S,H,N
+12,5,Mband,9.4159,Franklin,Feeding,0,S,H,N
+12,6,Mleash,8.0478,Franklin,Feeding,0,S,H,N
+13,1,Mband,3.3517,unknown,Feeding,0,S,H,N
+13,2,Control,2.0333,Moonface,Feeding,0,S,H,N
+13,5,Mleash,2.5,Moonface,Feeding,0,S,H,N
+13,6,Wax,3.5417,Moonface,Feeding,0,S,H,N
+14,1,Control,2.5906,Moonface,Feeding,0,S,H,N
+14,2,Wax,7.2925,Moonface,Feeding,0,V,H,N
+14,3,Mband,0.98,Moonface,Feeding,0,S,H,N
+14,4,SS,4.4083,Moonface,Feeding,0,S,H,N
+14,5,Mleash,3.0806,Moonface,Feeding,0,S,H,N
+14,6,Rpela,2.8361,Moonface,Feeding,0,S,H,N
+15,6,Mleash,2.4128,Jumpman,Feeding,0,S,H,N
+16,3,Wax,11.0303,Alpha 5,Feeding,0,S,H,N
+16,4,Mband,4.1256,Curl,Feeding,0,S,H,N
+16,5,Control,9.0767,Curl,Feeding,0,S,H,N
+16,6,Mleash,2.7089,Alpha 5,Feeding,0,S,H,N
+17,2,Mband,0.9275,Alpha 5,Feeding,0,S,H,N
+17,3,Wax,1.1353,Alpha 5,Feeding,0,S,H,N
+17,4,Mleash,0.6389,Alpha 5,Feeding,0,S,H,N
+17,5,Control,2.9453,Holepunch,Feeding,0,S,H,N
+17,6,Rpela,2.1597,Alpha 5,Feeding,0,S,H,N
+18,1,Mleash,3.4631,Holepunch,Feeding,0,S,H,N
+18,2,Rpela,1.7322,Holepunch,Feeding,0,S,H,N
+18,3,Control,6.0978,Holepunch,Feeding,0,S,M,N
+18,4,SS,3.6208,unknown,Feeding,0,S,H,N
+18,5,Mband,1.2772,Holepunch,Feeding,0,S,H,N
+18,6,Wax,1.6983,Alpha 5,Feeding,0,S,H,N
+19,1,SS,4.4797,Holepunch,Feeding,0,S,H,N
+19,2,Rpela,1.6897,Holepunch,Feeding,0,S,H,N
+19,3,Mband,4.5156,Holepunch,Feeding,0,S,H,N
+19,4,Wax,4.8356,Holepunch,Feeding,0,S,H,N
+19,5,Mleash,2.1839,Holepunch,Feeding,0,S,H,N
+19,6,Control,1.5567,Holepunch,Feeding,0,S,H,N
+20,1,Rpela,0.5978,Holepunch,Feeding,0,S,H,N
+20,2,Mband,1.6267,Alpha 5,Feeding,0,S,H,N
+20,3,Wax,4.7661,Holepunch,Feeding,0,S,H,N
+20,4,Control,4.6028,Holepunch,Feeding,0,S,H,N
+20,5,Mleash,3.9925,Alpha 5,Feeding,0,S,H,N
+20,6,SS,0.8856,Holepunch,Feeding,0,S,H,N
+21,1,Mband,10.3609,Alpha 5,Feeding,0,S,H,N
+21,2,Control,9.2478,Alpha 5,Feeding,0,S,H,N
+21,4,Wax,1.5389,Shark Watch,Feeding,0,S,H,N
+21,5,Mleash,2.4975,Shark Watch,Feeding,0,S,H,N
+21,6,Rpela,1.0678,Shark Watch,Feeding,0,S,H,N
+22,1,Mleash,2.6333,Shark Watch,Feeding,0,S,H,N
+22,2,Control,1.7006,Shark Watch,Feeding,0,S,H,N
+22,3,Wax,1.1394,Shark Watch,Feeding,0,S,H,N
+22,4,Rpela,3.2397,Shark Watch,Feeding,0,S,H,N
+22,5,Mband,4.4345,Shark Watch,Feeding,0,S,H,N
+22,6,SS,4.5767,Shark Watch,Feeding,0,S,H,N
+23,1,Mband,1.5278,Shark Watch,Feeding,0,S,H,N
+23,3,Mleash,1.5769,Shark Watch,Feeding,0,S,H,N
+23,4,SS,1.1311,Shark Watch,Feeding,0,S,H,N
+23,5,Control,4.5503,Shark Watch,Feeding,0,S,H,N
+23,6,Wax,3.0589,Shark Watch,Feeding,0,S,H,N
+24,1,Rpela,12.4195,Alpha 5,Feeding,0,S,H,N
+24,2,Mband,7.2456,Shark Watch,Feeding,0,S,H,N
+24,4,Control,1.0264,Curl,Feeding,0,S,H,N
+24,5,Wax,0.9739,Shark Watch,Feeding,0,S,H,N
+24,6,Mleash,3.4728,Shark Watch,Feeding,0,S,H,N
+25,1,Control,2.1978,Alpha 5,Feeding,0,S,H,N
+25,2,Wax,0.4814,Alpha 5,Feeding,0,S,H,N
+25,3,Mleash,1.2711,Shark Watch,Feeding,0,S,H,N
+25,4,SS,2.8975,Shark Watch,Feeding,0,S,H,N
+25,5,Mband,2.4683,Alpha 5,Feeding,0,S,H,N
+25,6,Rpela,8.5014,Shark Watch,Feeding,0,S,H,N
+26,1,Mband,3.5339,Shark Watch,Feeding,0,S,H,N
+26,2,Mleash,NA,Shark Watch,Feeding,0,S,H,N
+26,4,Wax,12.1877,Aquaman,Feeding,0,V,H,N
+26,5,Rpela,9.6905,Alpha 5,Feeding,0,S,H,N
+26,6,Control,3.693,Alpha 5,Feeding,0,S,H,N
+27,1,Wax,2.2317,Shark Watch,Feeding,0,S,H,N
+27,2,Wax,3.2544,Shark Watch,Feeding,0,S,H,M
+27,3,Mleash,1.9289,Alpha 5,Feeding,0,S,H,N
+27,4,SS,8.835,Alpha 5,Feeding,0,S,H,N
+27,5,Mband,3.3625,Shark Watch,Feeding,0,S,H,N
+27,6,Control,0.5747,Holepunch,Feeding,0,S,H,N
+28,1,Mleash,1.6153,Holepunch,Feeding,0,S,H,N
+28,2,Control,1.0394,Alpha 5,Feeding,0,S,H,N
+28,3,Rpela,0.6081,unknown,Feeding,0,S,H,N
+28,4,SS,3.2078,Holepunch,Feeding,0,S,H,N
+28,5,Wax,0.8536,Alpha 5,Feeding,0,S,H,N
+28,6,Mband,4.1861,Alpha 5,Feeding,0,S,H,N
+29,1,Control,3.3836,Alpha 5,Feeding,0,S,H,N
+29,2,Wax,0.5008,Alpha 5,Feeding,0,S,H,N
+29,3,Mband,2.9294,Holepunch,Feeding,0,S,H,N
+29,4,Rpela,1.5775,Shark Watch,Feeding,0,S,H,N
+29,5,Mleash,1.1811,Holepunch,Feeding,0,S,H,N
+30,1,Mband,0.9022,Holepunch,Feeding,0,S,H,N
+30,2,Control,1.6342,Shark Watch,Feeding,0,S,H,N
+30,4,Wax,5.9553,Shark Watch,Feeding,0,S,H,N
+30,5,Rpela,3.1475,Alpha 5,Feeding,0,S,H,N
+30,6,Mleash,3.9889,Shark Watch,Feeding,0,S,H,N
+31,1,Rpela,6.1317,Alpha 5,Feeding,0,S,H,N
+31,2,Wax,4.9683,Alpha 5,Feeding,0,S,H,N
+31,4,Mleash,6.3183,Jesse,Feeding,0,S,H,N
+31,6,Control,6.9872,Backscratch,Feeding,0,S,H,N
+32,2,Wax,1.7269,Backscratch,Feeding,0,S,H,N
+32,3,Rpela,6.0592,Curl,Feeding,0,S,H,Y
+32,4,Mband,0.6847,Curl,Feeding,0,S,H,N
+32,5,Control,9.0789,Curl,Feeding,0,S,H,N
+32,6,Mleash,1.9589,Curl,Feeding,0,S,H,N
+33,1,Rpela,8.5697,Gilbert,Feeding,0,S,H,N
+33,2,Mleash,4.0161,Gilbert,Feeding,0,S,H,N
+33,3,Wax,5.7925,Gilbert,Feeding,0,S,H,N
+33,6,Control,1.3425,Curl,Feeding,0,S,H,N
+34,1,Mleash,2.3478,Curl,Feeding,0,S,H,N
+34,2,Control,13.3092,Gilbert,Feeding,0,S,H,N
+34,3,Wax,13.7639,Gilbert,Feeding,0,S,H,N
+34,4,Mband,3.8478,Gilbert,Feeding,0,V,H,N
+34,5,Rpela,2.1664,Gilbert,Feeding,0,S,H,N
+34,6,SS,5.2492,Gilbert,Feeding,0,V,H,N
+35,3,Wax,15.0139,Jack,Feeding,0,S,H,N
+35,4,Mleash,3,Jack,Feeding,0,S,H,N
+35,5,Rpela,7.2367,Jack,Feeding,0,S,H,N
+35,6,Control,5.0661,Jack,Feeding,0,S,H,N
+36,1,Rpela,3.2,Jack,Feeding,0,S,H,N
+36,2,Control,3.4636,Jack,Feeding,0,S,H,N
+36,4,Wax,3.4472,Jack,Feeding,0,S,H,N
+36,5,Mleash,1.1853,Jack,Feeding,0,S,H,N
+36,6,Mband,1.8792,Jack,Feeding,0,S,H,N
+37,1,SS,10.5009,Jack,Feeding,0,S,H,N
+37,2,Mband,1.1281,Jack,Feeding,0,S,H,N
+37,3,Mleash,2.5953,Jack,Feeding,0,S,H,N
+37,4,Wax,1.8803,Camo,Feeding,0,S,H,N
+37,5,Rpela,1.9797,Jack,Feeding,0,S,H,N
+37,6,Control,0.6364,Jack,Feeding,0,S,H,N
+38,2,Mband,0.8469,Jack,Feeding,0,S,H,N
+38,3,Rpela,3.8208,Camo,Feeding,0,S,H,N
+38,5,Wax,9.0156,Jack,Feeding,0,S,H,N
+38,6,Mleash,3.7086,Dom,Feeding,0,S,H,N
+39,2,Wax,2.5933,Dom,Feeding,0,S,H,N
+39,6,Mleash,7.6581,Shark Watch,Feeding,0,S,H,N
+40,1,Mleash,11.6236,Shark Watch,Feeding,0,S,H,N
+40,3,Wax,4.47,Backscratch,Feeding,0,S,H,N
+40,4,Control,0.6589,Shark Watch,Feeding,0,S,H,N
+40,5,Rpela,9.9731,Manta,Feeding,0,S,H,Y
+41,2,Wax,5.8536,Backscratch,Feeding,0,S,H,N
+41,3,Mband,14.1003,Curl,Feeding,0,S,H,N
+41,6,Control,0.6631,Curl,Feeding,0,S,H,N
+42,1,Wax,3.482,Turkey,Feeding,0,S,H,N
+42,2,Control,11.1803,Turkey,Feeding,0,S,H,N
+42,3,Rpela,2.1239,Turkey,Feeding,0,S,H,N
+42,5,Mleash,5.2706,Claw,Feeding,0,S,H,N
+42,6,Mband,4.8542,Claw,Feeding,0,S,H,N
+43,1,Wax,3.2839,Henry,Feeding,0,S,H,N
+43,2,Mleash,14.9523,Turkey,Feeding,0,S,H,N
+43,5,Rpela,2.23,Turkey,Feeding,0,S,H,N
+43,6,Control,6.842,Turkey,Feeding,0,S,H,N
+44,1,Control,2.0508,Turkey,Feeding,0,S,H,N
+44,3,Rpela,10.5559,Turkey,Feeding,0,S,H,N
+44,4,Mband,3.075,Turkey,Feeding,0,S,H,N
+44,5,Wax,2.0331,Turkey,Feeding,0,S,H,N
+44,6,Mleash,0.8361,Turkey,Feeding,0,S,H,N
+45,1,Control,1.0919,Turkey,Feeding,0,S,H,N
+45,3,Mleash,2.98,Cupid,Feeding,0,S,H,N
+45,4,Rpela,9.7367,Turkey,Feeding,0,S,H,N
+45,5,Mband,1.3503,Turkey,Feeding,0,S,H,N
+45,6,Wax,3.5061,Turkey,Feeding,0,S,H,N
+46,1,Mband,10.3188,Higgins,Feeding,0,S,H,N
+46,2,Rpela,13.7994,Higgins,Feeding,0,S,H,N
+46,3,SS,0.4481,Tasmania,Feeding,0,S,H,N
+46,4,Control,0.7114,Tasmania,Feeding,0,S,H,N
+46,5,Mleash,0.205,Higgins,Feeding,0,S,H,N
+46,6,Wax,1.0206,Tasmania,Feeding,0,S,H,N
+47,1,Mleash,0.4369,Tasmania,Feeding,0,S,H,N
+47,2,Rpela,1.3342,Tasmania,Feeding,0,S,H,N
+47,3,Wax,0.6422,Tasmania,Feeding,0,S,H,N
+47,4,Mband,0.2942,Higgins,Feeding,0,S,H,N
+47,5,Control,0.3542,Tasmania,Feeding,0,S,H,N
+47,6,SS,2.0736,Tasmania,Feeding,0,S,H,N
+48,1,SS,0.5617,Tasmania,Feeding,0,S,H,N
+48,2,Wax,3.1908,Tasmania,Feeding,0,S,H,N
+48,3,Control,0.3675,Tasmania,Feeding,0,S,H,N
+48,4,Mband,1.405,Tasmania,Feeding,0,S,H,N
+48,5,Rpela,0.3881,Higgins,Feeding,0,S,H,N
+48,6,Mleash,2.6583,Tasmania,Feeding,0,S,H,N
+49,1,Rpela,9.9511,Higgins,Feeding,0,S,H,N
+49,2,Mband,9.7869,unknown,Feeding,0,S,H,N
+49,4,Control,1.7919,unknown,Feeding,0,S,H,N
+49,6,Mleash,4.7111,Ziggy,Feeding,0,S,H,N
+50,3,Rpela,1.3558,Spot,Feeding,0,S,H,N
+50,4,Mband,0.8067,Hamburglar,Feeding,0,S,H,N
+50,5,Mleash,1.5128,Hamburglar,Feeding,0,S,H,N
+50,6,Control,14.752,Hamburglar,Feeding,0,S,H,N

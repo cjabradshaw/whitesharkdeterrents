@@ -1,0 +1,1792 @@
+Trial_set,Trial,det,time,ID,Activity,dist,App_type,Intent,Reaction
+1,1,Rpela,2.7678,Batman,Passing,1418.769,S,H,N
+1,1,Rpela,11.2955,Batman,Passing,3317.79,D,M,N
+1,2,Mband,2.1144,Batman,Passing,1811.899,D,M,N
+1,2,Mband,2.4033,Batman,Passing,1814.844,S,H,N
+1,2,Mband,2.8144,Batman,Feeding,0,V,H,N
+1,3,Control,8.5783,Batman,Passing,2230.91,V,H,N
+1,3,Control,10.3205,Batman,Passing,4005.581,D,L,N
+1,3,Control,14.3899,Batman,Passing,3800.78,D,L,N
+1,4,Wax,7.108,unknown,Passing,NA,D,L,N
+1,5,SS,9.308,Batman,Passing,839.107,V,H,Y
+1,6,Mleash,13.2577,Batman,Passing,1981.263,D,H,N
+1,6,Mleash,14.4619,Batman,Passing,4133.266,D,L,N
+2,1,Wax,6,unknown,Passing,10000,S,L,N
+2,1,Wax,10,unknown,Passing,5000,S,L,N
+2,2,Mleash,0.3158,Anchor,Passing,NA,S,M,N
+2,2,Mleash,0.8261,Anchor,Passing,3558.826,S,M,N
+2,2,Mleash,0.9078,Anchor,Feeding,0,S,M,N
+2,3,Control,2.3853,unknown,Passing,NA,D,L,N
+2,3,Control,4.488,Anchor,Passing,3523.361,D,M,N
+2,3,Control,4.74,Anchor,Passing,1523.122,D,M,N
+2,3,Control,5.1466,Anchor,Passing,2856.603,S,H,N
+2,3,Control,10.8,Anchor,Passing,752.92,S,H,N
+2,3,Control,10.8894,Anchor,Feeding,0,S,H,N
+2,4,Mband,2.7744,unknown,Passing,5020.427,D,M,N
+2,4,Mband,3.1372,Anchor,Passing,1941.415,D,M,N
+2,5,SS,3.1403,Anchor,Passing,2512.088,S,M,N
+2,5,SS,8.5175,Anchor,Passing,2994.737,D,L,N
+2,5,SS,12.218,unknown,Passing,4577.848,D,L,N
+2,5,SS,14.4649,unknown,Passing,NA,D,L,N
+2,6,Rpela,6,unknown,Passing,2500,S,M,N
+2,6,Rpela,10,unknown,Passing,NA,D,L,N
+3,1,Mleash,6.5136,Shark 3,Passing,4136.58,S,M,N
+3,1,Mleash,7.0339,Shark 3,Passing,3409.839,D,L,N
+3,1,Mleash,10.5086,unknown,Passing,4994.949,D,L,N
+3,2,Wax,12.7513,Anchor,Passing,NA,S,M,N
+3,2,Wax,13.0419,Anchor,Passing,1969.714,D,L,N
+3,3,Control,1.1103,Anchor,Passing,NA,S,M,N
+3,3,Control,1.2083,Anchor,Passing,NA,S,M,N
+3,3,Control,4.8297,Anchor,Passing,NA,S,M,N
+3,3,Control,4.898,Anchor,Passing,1449.003,S,H,N
+3,3,Control,5.41,Anchor,Passing,3232.064,S,H,N
+3,3,Control,9.5686,Anchor,Passing,2191.887,S,H,N
+3,3,Control,9.7463,Anchor,Passing,521.264,S,H,N
+3,3,Control,9.8575,Anchor,Passing,2891.377,S,H,Y
+3,3,Control,11.6916,Franklin,Feeding,0,S,H,N
+3,4,Mband,0.7272,Franklin,Passing,NA,S,L,N
+3,4,Mband,1.6953,Franklin,Passing,2271.606,S,M,N
+3,4,Mband,2.0833,Franklin,Passing,1071.389,S,M,N
+3,4,Mband,2.2464,Franklin,Feeding,0,S,H,N
+3,5,SS,6.3503,Anchor,Passing,2823.207,S,M,N
+3,5,SS,6.9,Anchor,Passing,4551.295,D,L,N
+3,5,SS,7.5964,Anchor,Passing,3492.354,S,L,N
+3,5,SS,8.5155,Franklin,Passing,3627.912,S,L,N
+3,5,SS,9.3344,Franklin,Passing,NA,S,L,N
+3,5,SS,10.9738,Franklin,Passing,2196.384,S,M,N
+3,5,SS,11.2825,Franklin,Passing,1809.724,S,M,N
+3,5,SS,11.5805,Franklin,Passing,2511.355,S,M,N
+3,5,SS,11.83,Franklin,Feeding,0,S,H,N
+3,6,Rpela,6.5925,Franklin,Passing,1070.502,S,M,N
+3,6,Rpela,6.7211,Franklin,Passing,974.663,S,H,N
+3,6,Rpela,6.825,Franklin,Passing,1189.068,S,H,N
+3,6,Rpela,7.0347,Franklin,Feeding,0,S,H,N
+4,1,Wax,11.592,unknown,Passing,NA,S,L,N
+4,1,Wax,14.9131,Franklin,Feeding,0,S,H,N
+4,2,Rpela,2.6583,Franklin,Passing,2219.618,D,M,N
+4,2,Rpela,3.0197,Franklin,Passing,1971.343,S,M,N
+4,2,Rpela,3.2395,Franklin,Feeding,0,S,H,N
+4,3,SS,1.875,Franklin,Passing,4861.361,S,L,N
+4,3,SS,2.0408,Franklin,Passing,1589.697,S,M,Y
+4,3,SS,5.2133,Franklin,Passing,1454.059,S,M,N
+4,3,SS,6.0111,Franklin,Passing,533.439,S,H,Y
+4,3,SS,6.2775,Franklin,Passing,327.128,S,H,Y
+4,3,SS,6.5586,Franklin,Passing,1079.974,S,H,N
+4,3,SS,6.9133,Franklin,Passing,3168.942,D,M,N
+4,3,SS,7.2778,Franklin,Passing,2650.647,D,M,N
+4,3,SS,9.4156,Franklin,Passing,3157.372,D,L,N
+4,4,Control,2.0536,Franklin,Passing,3566.612,S,M,N
+4,4,Control,2.9028,Franklin,Feeding,0,S,H,N
+4,5,Mleash,2.1692,unknown,Passing,NA,D,L,N
+4,5,Mleash,6.5181,Franklin,Passing,3147.453,D,L,N
+4,5,Mleash,6.7706,Franklin,Feeding,0,S,H,N
+4,6,Mband,0.3733,Franklin,Passing,2657.94,S,M,N
+4,6,Mband,0.3747,Franklin,Passing,NA,S,M,N
+4,6,Mband,1.9064,Franklin,Feeding,0,S,H,N
+5,1,SS,1.0353,Cipher,Passing,3309.747,D,L,N
+5,1,SS,1.4539,Cipher,Passing,1686.719,D,L,N
+5,1,SS,1.7761,Cipher,Passing,4157.153,D,L,N
+5,1,SS,3.0378,Cipher,Passing,1118.855,S,H,Y
+5,1,SS,4.2311,Cipher,Passing,1885.301,S,M,Y
+5,1,SS,4.4117,Cipher,Passing,NA,S,M,N
+5,1,SS,4.5858,Cipher,Passing,2753.322,S,M,N
+5,1,SS,4.7753,Cipher,Passing,NA,S,M,N
+5,1,SS,4.8661,Cipher,Passing,1086.406,S,H,Y
+5,1,SS,5.0956,Cipher,Passing,2311.626,S,H,N
+5,1,SS,5.3025,Cipher,Passing,1048.861,S,H,N
+5,1,SS,5.6528,Cipher,Passing,NA,S,H,N
+5,1,SS,6.1211,Cipher,Passing,1682.889,S,H,Y
+5,1,SS,6.9967,Cipher,Passing,5122.631,S,H,N
+5,1,SS,7.1661,Cipher,Passing,2006.894,S,H,N
+5,1,SS,8.6325,Cipher,Passing,NA,S,H,N
+5,1,SS,10.0903,Cipher,Passing,1515.173,S,H,N
+5,1,SS,10.2361,Cipher,Passing,1924,S,H,Y
+5,2,Wax,0.3736,Franklin,Passing,4366.605,S,L,N
+5,2,Wax,1.1572,Franklin,Feeding,0,S,H,N
+5,3,Mleash,0.7275,Franklin,Passing,NA,S,L,N
+5,3,Mleash,0.9456,Franklin,Passing,1859.518,S,L,N
+5,3,Mleash,1.2264,Franklin,Passing,6155.831,D,L,N
+5,3,Mleash,1.5575,Franklin,Feeding,0,S,H,N
+5,4,Control,0.0881,Shark 3,Passing,NA,D,M,N
+5,4,Control,3.4292,Franklin,Passing,2249.909,S,M,N
+5,4,Control,4.4528,Franklin,Feeding,0,S,H,N
+5,5,Rpela,1.8622,Franklin,Passing,2258.234,S,M,N
+5,5,Rpela,3.8867,Shark 3,Feeding,0,V,H,N
+5,6,Mband,1.3467,Franklin,Feeding,0,S,H,N
+6,1,Rpela,0.6672,Franklin,Feeding,0,S,H,N
+6,2,SS,0.05,unknown,Passing,NA,S,M,N
+6,2,SS,1.3094,unknown,Passing,1080.06,S,H,Y
+6,2,SS,1.4747,unknown,Passing,448.692,S,H,N
+6,2,SS,2.1078,Cipher,Passing,1287.235,S,H,Y
+6,2,SS,2.2764,Cipher,Passing,1909.35,S,H,N
+6,2,SS,2.4417,Cipher,Passing,2068.537,S,H,N
+6,2,SS,4.6664,Cipher,Passing,1645.228,S,H,N
+6,2,SS,5.1356,Cipher,Passing,528.539,S,H,Y
+6,2,SS,5.2572,Cipher,Passing,2104.328,S,H,N
+6,2,SS,5.8083,Cipher,Passing,2117.721,S,H,N
+6,3,Control,0.3325,Pavarotti,Passing,NA,S,H,N
+6,3,Control,0.5942,Pavarotti,Feeding,0,S,H,N
+6,4,Mband,0.3556,Franklin,Feeding,0,S,H,N
+6,5,Wax,1.1903,unknown,Passing,NA,D,L,N
+6,5,Wax,5.4161,Pavarotti,Passing,5282.381,S,M,N
+6,5,Wax,5.7581,Pavarotti,Passing,1432.778,S,M,N
+6,5,Wax,6.1742,unknown,Passing,NA,D,L,N
+6,5,Wax,6.58,Pavarotti,Feeding,0,S,H,N
+6,6,Mleash,0.5708,Franklin,Passing,NA,S,M,N
+6,6,Mleash,1.4817,Franklin,Passing,3780.482,D,L,N
+6,6,Mleash,6.672,Owen Wilson,Passing,2166.25,D,M,N
+6,6,Mleash,6.6761,Owen Wilson,Passing,1987.485,D,M,N
+6,6,Mleash,7.6728,Owen Wilson,Passing,1459.091,S,M,N
+6,6,Mleash,10.3992,Pavarotti,Passing,687.415,S,M,N
+6,6,Mleash,10.9684,Pavarotti,Feeding,0,S,H,N
+7,1,Control,1.9383,Pavarotti,Feeding,0,S,H,N
+7,2,Mleash,6.9011,Pavarotti,Feeding,0,S,H,N
+7,3,SS,1.8278,Pavarotti,Passing,2048.6,D,M,N
+7,3,SS,3.9722,Pavarotti,Passing,2614.143,S,M,N
+7,3,SS,6.1356,Crescent,Passing,NA,D,L,N
+7,4,Mband,2.3669,Pavarotti,Passing,888.096,S,M,N
+7,4,Mband,2.5733,Pavarotti,Feeding,0,S,H,N
+7,5,Rpela,2.9342,Pavarotti,Passing,NA,S,M,N
+7,5,Rpela,3.1264,Pavarotti,Feeding,0,S,H,N
+7,6,Wax,0.4178,Pavarotti,Passing,2130.026,S,M,N
+7,6,Wax,4.9083,Pavarotti,Passing,1506.878,S,H,N
+7,6,Wax,5.0564,Pavarotti,Feeding,0,S,H,N
+8,1,Mband,4.1025,Pavarotti,Feeding,0,S,H,N
+8,2,Mleash,1.9467,Pavarotti,Passing,479.655,S,H,N
+8,2,Mleash,3.7528,unknown,Feeding,0,S,H,N
+8,3,Control,3.4797,Pavarotti,Passing,798.271,V,H,N
+8,3,Control,3.727,unknown,Feeding,0,S,H,N
+8,4,SS,3,Dif,Passing,2000,S,M,N
+8,4,SS,12,Dif,Passing,2000,S,H,Y
+8,4,SS,12.2,unknown,Passing,2500,S,H,N
+8,4,SS,12.4,unknown,Passing,2500,S,H,N
+8,4,SS,12.6,unknown,Passing,1500,D,M,N
+8,4,SS,12.8,unknown,Passing,3000,D,L,N
+8,5,Wax,8.1381,Pavarotti,Passing,969.222,S,M,N
+8,5,Wax,8.3942,unknown,Feeding,0,S,H,N
+8,6,Rpela,0.3822,Pavarotti,Passing,1378.665,S,H,N
+8,6,Rpela,0.9089,unknown,Feeding,0,S,H,N
+9,1,Wax,4,Dif,Passing,1000,S,H,N
+9,1,Wax,4.2,Dif,Passing,500,S,H,N
+9,1,Wax,4.4,Dif,Feeding,0,S,H,N
+9,2,Rpela,2,Dif,Passing,1000,S,H,N
+9,2,Rpela,2.2,Dif,Passing,1000,S,H,N
+9,2,Rpela,2.4,Dif,Feeding,0,S,H,N
+9,3,Mband,2.6436,Pavarotti,Passing,302.595,S,H,N
+9,3,Mband,2.8131,unknown,Feeding,0,S,H,N
+9,3,Mband,3.7953,unknown,Feeding,0,S,H,N
+9,4,Control,0.6325,Manta,Passing,6211.094,S,L,N
+9,4,Control,1.5397,Manta,Passing,2458.95,S,M,N
+9,4,Control,1.8225,Manta,Passing,3761.162,S,M,N
+9,4,Control,2.6581,Manta,Passing,3774.534,S,M,N
+9,4,Control,2.855,Manta,Passing,1708.134,S,M,N
+9,4,Control,3.9708,Henry,Passing,1328.212,S,H,N
+9,4,Control,4.4422,Henry,Feeding,0,S,H,N
+9,5,Mleash,4.1575,Henry,Feeding,0,S,H,N
+9,6,SS,4.6108,Henry,Passing,3712.74,D,L,N
+9,6,SS,4.787,Henry,Passing,2036.008,D,M,N
+9,6,SS,5.5636,Henry,Passing,1564.072,S,M,N
+9,6,SS,6.15,Henry,Passing,2478.21,S,M,N
+9,6,SS,6.7822,Henry,Passing,3985.63,S,M,N
+9,6,SS,7.5475,Henry,Passing,2478.176,S,H,N
+9,6,SS,10.427,Henry,Passing,2950.523,S,M,N
+9,6,SS,11.5936,Manta,Passing,5434.371,D,M,N
+9,6,SS,12.1247,unknown,Passing,3815.618,D,L,N
+9,6,SS,14.0178,unknown,Passing,NA,D,L,N
+9,6,SS,14.8684,Manta,Passing,3892.94,S,M,N
+10,1,Mband,7.0778,Henry,Passing,2827.332,D,M,N
+10,1,Mband,7.8258,Henry,Passing,2360.488,D,M,N
+10,1,Mband,9.1209,Henry,Passing,3940.194,D,M,N
+10,1,Mband,10.2014,Henry,Passing,1323.806,S,H,N
+10,1,Mband,12.2053,Henry,Feeding,0,S,H,N
+10,2,Wax,7.0292,Henry,Feeding,0,S,H,N
+10,3,Rpela,2.1733,Henry,Passing,786.878,S,H,Y
+10,3,Rpela,2.7686,Henry,Passing,518.292,S,H,Y
+10,3,Rpela,3.3678,Henry,Feeding,0,S,H,N
+10,4,SS,0.7222,Henry,Passing,2592.336,S,M,N
+10,4,SS,1.6186,Henry,Passing,2707.72,S,M,N
+10,4,SS,1.8569,Henry,Passing,1299.398,S,H,Y
+10,4,SS,5.3611,Henry,Passing,1566.929,S,H,Y
+10,4,SS,10.5672,Henry,Passing,2189.934,S,H,Y
+10,4,SS,10.7039,Henry,Passing,1751.344,S,H,Y
+10,4,SS,10.9914,Henry,Passing,1406.988,S,H,Y
+10,4,SS,11.1681,Henry,Passing,1533.477,S,H,N
+10,4,SS,11.4775,Henry,Passing,1862.128,S,H,Y
+10,4,SS,11.7372,Henry,Passing,3041.476,D,H,N
+10,4,SS,11.8997,Henry,Passing,2582.486,D,H,N
+10,4,SS,13.4317,Henry,Passing,2429.293,S,H,N
+10,4,SS,13.7222,Henry,Passing,1106.304,S,H,Y
+10,5,Mleash,1.8897,unknown,Passing,NA,D,L,N
+10,5,Mleash,8.3967,Henry,Feeding,0,S,H,N
+10,6,Control,3.5556,Henry,Passing,NA,D,L,N
+10,6,Control,7.72,Nollsey,Passing,NA,D,L,N
+10,6,Control,8.1897,Nollsey,Passing,2101.819,S,L,N
+10,6,Control,8.5842,Nollsey,Passing,4073.18,S,L,N
+10,6,Control,10.1542,Nollsey,Passing,NA,D,L,N
+10,6,Control,10.4995,Nollsey,Passing,3367.524,D,L,N
+10,6,Control,11.6481,Nollsey,Passing,NA,D,L,N
+11,1,Control,1.1269,Henry,Passing,3206.941,D,L,N
+11,1,Control,1.2639,Henry,Passing,1728.852,S,M,N
+11,1,Control,1.6536,Henry,Feeding,0,S,H,N
+11,1,Control,2.0939,Henry,Feeding,0,S,H,N
+11,2,Rpela,5.3097,Henry,Feeding,0,S,H,N
+11,3,Wax,0.8744,Nollsey,Passing,NA,S,M,N
+11,3,Wax,1.24,Nollsey,Passing,2374.941,S,M,N
+11,3,Wax,1.6253,Nollsey,Passing,2414.233,D,M,N
+11,3,Wax,2.7864,Nollsey,Passing,4793.853,D,L,N
+11,3,Wax,4.7089,Nollsey,Passing,3245.121,D,L,N
+11,3,Wax,5.1395,Nollsey,Passing,NA,D,L,N
+11,3,Wax,6.9567,Nollsey,Passing,1671.124,S,M,N
+11,3,Wax,7.3008,Nollsey,Passing,1841.316,S,M,N
+11,3,Wax,7.8414,Nollsey,Passing,3361.046,S,M,N
+11,3,Wax,9.4834,Nollsey,Passing,2881.373,S,M,N
+11,3,Wax,9.8081,Nollsey,Passing,NA,S,M,N
+11,3,Wax,10.3639,Nollsey,Passing,1702.182,S,M,N
+11,3,Wax,10.7034,Nollsey,Passing,1788.796,S,M,N
+11,3,Wax,11.0839,Nollsey,Passing,1002.955,S,M,N
+11,3,Wax,11.9097,Nollsey,Passing,1244.844,S,M,N
+11,3,Wax,13.7489,Nollsey,Passing,3056.056,S,M,N
+11,4,SS,0.7311,unknown,Passing,NA,D,L,N
+11,4,SS,1.0811,Manta,Passing,5198.536,D,L,N
+11,4,SS,2.175,Manta,Passing,NA,S,L,N
+11,4,SS,2.3511,Manta,Passing,4827.205,S,M,N
+11,4,SS,2.7647,Nollsey,Passing,8504.255,D,L,N
+11,4,SS,3.362,unknown,Passing,7429.472,S,L,N
+11,4,SS,3.905,Nollsey,Passing,2124.013,D,L,N
+11,4,SS,5.9139,Crescent,Passing,6109.113,S,M,Y
+11,4,SS,7.0786,Manta,Passing,9604.851,S,L,N
+11,4,SS,7.9267,Crescent,Passing,3318.305,S,M,Y
+11,4,SS,8.1733,Manta,Passing,5974.369,S,M,Y
+11,4,SS,8.7009,Nollsey,Passing,7374.459,D,L,N
+11,4,SS,12.0656,Crescent,Passing,3591.393,S,M,Y
+11,4,SS,13.4403,unknown,Passing,2605.133,D,L,N
+11,5,Mband,0.3639,unknown,Passing,NA,D,L,N
+11,5,Mband,0.8478,Crescent,Passing,882.42,S,H,Y
+11,5,Mband,1.2908,Crescent,Passing,873.447,S,H,N
+11,5,Mband,3.502,Crescent,Passing,5818.998,D,L,N
+11,5,Mband,5.08,Nollsey,Passing,5514.845,D,L,N
+11,5,Mband,5.3467,Backscratch,Passing,4085.092,S,M,N
+11,5,Mband,7.2617,unknown,Feeding,0,S,H,N
+11,5,Mband,7.8672,Backscratch,Passing,4136.035,S,L,N
+11,5,Mband,8.0806,Crescent,Feeding,0,S,H,N
+11,5,Mband,8.4309,Crescent,Passing,1447.607,S,M,N
+11,5,Mband,9.2884,Crescent,Passing,4083.465,D,L,N
+11,5,Mband,12.5145,Nollsey,Passing,NA,D,L,N
+11,5,Mband,13.5911,Crescent,Passing,1904.5,S,M,N
+11,5,Mband,14.7606,Crescent,Passing,4149.052,S,L,N
+11,5,Mband,14.7645,Crescent,Passing,3879.671,S,L,N
+11,6,Mleash,0.7508,Henry,Feeding,0,S,H,N
+12,1,SS,1.4117,Franklin,Passing,2991.707,S,L,N
+12,1,SS,2.0422,Franklin,Passing,4358.316,D,L,N
+12,1,SS,5.5464,Franklin,Passing,10758.306,S,L,N
+12,1,SS,5.8556,unknown,Passing,6729.076,D,L,N
+12,1,SS,9.49,Two bit,Passing,1419.387,S,H,Y
+12,1,SS,11.6756,unknown,Passing,NA,S,L,N
+12,1,SS,13.0542,Two bit,Passing,8335.866,S,L,N
+12,2,Rpela,1.8156,Bishop,Passing,1384.365,S,M,N
+12,2,Rpela,6.517,Bishop,Passing,5969.01,D,L,N
+12,2,Rpela,7.6381,Jumpman,Passing,4611.671,D,L,N
+12,2,Rpela,7.8431,Jumpman,Passing,3230.326,D,L,N
+12,2,Rpela,11.4061,Jumpman,Passing,3910.159,S,L,Y
+12,2,Rpela,13.865,Gill,Passing,972.457,D,M,Y
+12,2,Rpela,15.1645,Gill,Passing,844.922,D,M,Y
+12,3,Control,0.6489,Bishop,Passing,5202.111,D,L,N
+12,3,Control,2.9345,Jumpman,Passing,1490.225,S,H,N
+12,3,Control,3.1964,Jumpman,Feeding,0,S,H,N
+12,3,Control,3.5845,Jumpman,Passing,NA,S,H,N
+12,3,Control,3.9192,Jumpman,Feeding,0,S,H,N
+12,4,Wax,2.815,Gill,Passing,934.719,S,M,N
+12,4,Wax,3.3661,Gill,Passing,2905.014,S,M,N
+12,4,Wax,3.7311,Gill,Passing,586.596,S,H,N
+12,4,Wax,3.8417,Gill,Feeding,0,S,H,N
+12,5,Mband,2.4414,Jumpman,Passing,1340.977,S,M,N
+12,5,Mband,4.9122,unknown,Passing,NA,S,L,N
+12,5,Mband,9.4159,Franklin,Feeding,0,S,H,N
+12,6,Mleash,1.1883,Jumpman,Passing,NA,D,L,N
+12,6,Mleash,1.5692,Jumpman,Passing,1953.535,D,L,N
+12,6,Mleash,1.7136,Jumpman,Feeding,0,S,H,N
+12,6,Mleash,4.0303,Jumpman,Passing,3522.956,S,M,N
+12,6,Mleash,4.9436,unknown,Passing,NA,S,M,N
+12,6,Mleash,7.155,Franklin,Passing,3331.256,D,L,N
+12,6,Mleash,8.0478,Franklin,Feeding,0,S,H,N
+13,1,Mband,0.1942,Moonface,Passing,3453.184,D,L,N
+13,1,Mband,3.3517,unknown,Feeding,0,S,H,N
+13,2,Control,0.3592,Moonface,Passing,1360.455,S,M,N
+13,2,Control,0.6492,Moonface,Passing,1584.792,D,L,N
+13,2,Control,1.1683,Moonface,Passing,1221.696,D,L,N
+13,2,Control,2.0333,Moonface,Feeding,0,S,H,N
+13,3,SS,0.5672,Moonface,Passing,3733.276,D,L,N
+13,3,SS,1.2669,Moonface,Passing,2280.784,S,L,N
+13,3,SS,1.8414,Moonface,Passing,1379.226,D,L,N
+13,3,SS,2.5742,Moonface,Passing,1111.489,S,L,N
+13,3,SS,3.2539,Moonface,Passing,4729.704,S,L,N
+13,3,SS,3.9164,Moonface,Passing,2660.609,D,L,N
+13,3,SS,5.5597,Moonface,Passing,2411.298,D,L,N
+13,4,Rpela,4.3867,Moonface,Passing,2212.951,D,L,N
+13,4,Rpela,4.7556,Jumpman,Passing,2977.98,D,L,N
+13,4,Rpela,5.1158,Jumpman,Passing,960.719,S,M,N
+13,4,Rpela,5.5864,Moonface,Passing,839.599,S,M,N
+13,4,Rpela,7.9778,Moonface,Passing,2664.674,D,L,N
+13,4,Rpela,10.8334,Moonface,Passing,500.285,D,M,N
+13,4,Rpela,11.6897,Moonface,Passing,1726.622,D,L,N
+13,4,Rpela,13.2728,Jumpman,Passing,1521.98,D,L,N
+13,4,Rpela,13.4528,Jumpman,Passing,571.838,S,M,N
+13,4,Rpela,13.9978,Jumpman,Passing,910.696,S,M,N
+13,5,Mleash,0.7939,Moonface,Passing,NA,D,L,N
+13,5,Mleash,2.5,Moonface,Feeding,0,S,H,N
+13,6,Wax,2.9875,Moonface,Passing,1702.342,S,M,N
+13,6,Wax,3.122,Moonface,Feeding,0,S,H,N
+13,6,Wax,3.5417,Moonface,Feeding,0,S,H,N
+14,1,Control,1.7928,Moonface,Passing,2245.58,S,M,N
+14,1,Control,2.1961,Moonface,Feeding,0,S,H,N
+14,1,Control,2.5906,Moonface,Feeding,0,S,H,N
+14,2,Wax,0.5211,Moonface,Passing,2495.526,S,L,N
+14,2,Wax,1.5631,Moonface,Passing,4148.821,S,L,N
+14,2,Wax,6.0017,Moonface,Passing,4338.561,S,L,N
+14,2,Wax,6.2964,Moonface,Passing,591.595,S,M,N
+14,2,Wax,7.2925,Moonface,Feeding,0,V,H,N
+14,3,Mband,0.98,Moonface,Feeding,0,S,H,N
+14,4,SS,1.1236,Moonface,Passing,882.828,S,M,Y
+14,4,SS,1.6494,Moonface,Feeding,0,S,M,N
+14,4,SS,2.53,Moonface,Passing,984.852,S,M,N
+14,4,SS,3.2433,Moonface,Passing,1569.143,S,M,N
+14,4,SS,4.0128,Moonface,Passing,1221.715,S,M,N
+14,4,SS,4.1936,Moonface,Feeding,0,S,H,N
+14,4,SS,4.4083,Moonface,Feeding,0,S,H,N
+14,5,Mleash,0.9558,Moonface,Passing,910.88,D,M,N
+14,5,Mleash,1.4928,Moonface,Passing,NA,D,L,N
+14,5,Mleash,3.0806,Moonface,Feeding,0,S,H,N
+14,6,Rpela,0.1972,Moonface,Passing,NA,S,M,N
+14,6,Rpela,0.6131,Moonface,Passing,1574.819,D,L,N
+14,6,Rpela,1.1675,Moonface,Feeding,0,S,H,N
+14,6,Rpela,2.4819,Moonface,Passing,1200.148,D,L,N
+14,6,Rpela,2.6614,Moonface,Feeding,0,S,H,N
+14,6,Rpela,2.8361,Moonface,Feeding,0,S,H,N
+15,1,Wax,6.1467,Jumpman,Passing,2012.296,S,H,Y
+15,1,Wax,8.537,Jumpman,Passing,822.498,S,H,N
+15,1,Wax,8.767,Jumpman,Passing,NA,S,H,N
+15,1,Wax,9.0386,Jumpman,Passing,2101.668,S,M,N
+15,1,Wax,9.2542,Jumpman,Passing,1643.847,S,H,N
+15,1,Wax,9.5064,Jumpman,Passing,2266.452,S,M,N
+15,2,SS,1.5519,Gill,Passing,1273.576,S,H,Y
+15,2,SS,2.5147,unknown,Passing,2741.932,S,M,N
+15,2,SS,4.7522,Gill,Passing,2082.784,S,M,N
+15,2,SS,6.3767,unknown,Passing,2659.823,S,M,N
+15,2,SS,7.4581,Gill,Passing,4108.009,S,M,N
+15,2,SS,7.9772,Gill,Passing,3449.775,S,M,N
+15,2,SS,8.2781,Gill,Passing,2656.169,S,M,N
+15,2,SS,8.9075,Gill,Passing,2758.038,D,L,N
+15,2,SS,9.912,Gill,Passing,3186.116,S,L,N
+15,3,Mband,4.9425,Gill,Passing,3020.48,D,M,N
+15,3,Mband,5.33,Gill,Passing,5496.742,S,L,N
+15,3,Mband,8.1878,Gill,Passing,1922.701,V,M,N
+15,3,Mband,9.9345,Gill,Passing,1754.345,S,M,N
+15,3,Mband,10.5131,Gill,Passing,2825.286,S,M,N
+15,3,Mband,13.9786,unknown,Passing,2320.712,D,L,N
+15,4,Rpela,1.795,Gill,Feeding,0,S,H,N
+15,4,Rpela,2.1156,Gill,Passing,1248.795,S,H,N
+15,4,Rpela,3.9478,Gill,Passing,3509.649,S,L,N
+15,4,Rpela,5.9714,Gill,Passing,2007.341,D,M,N
+15,4,Rpela,7.8325,Gill,Passing,2747.742,S,M,N
+15,4,Rpela,7.9422,Gill,Passing,2294.5,S,M,N
+15,4,Rpela,8.7953,Jumpman,Passing,3469.986,S,M,N
+15,4,Rpela,9.0028,Jumpman,Passing,2007.818,S,M,N
+15,4,Rpela,9.4714,Jumpman,Passing,3126.705,S,M,N
+15,4,Rpela,9.7486,Jumpman,Passing,2912.571,S,M,N
+15,4,Rpela,11.6009,Gill,Passing,470.734,S,H,Y
+15,4,Rpela,12.1259,unknown,Passing,2883.468,S,M,N
+15,4,Rpela,12.3297,Jumpman,Passing,3217.548,S,M,N
+15,4,Rpela,13.1136,Jumpman,Passing,2031.414,S,M,N
+15,5,Control,0.1683,Gill,Passing,NA,S,L,N
+15,5,Control,0.9381,Gill,Feeding,0,S,H,N
+15,5,Control,3.1103,unknown,Passing,2578.786,S,L,N
+15,5,Control,5.1245,unknown,Passing,NA,S,L,N
+15,6,Mleash,1.2128,unknown,Passing,NA,S,M,N
+15,6,Mleash,1.3072,Jumpman,Passing,1049.765,S,M,N
+15,6,Mleash,1.4811,unknown,Passing,545.462,S,H,N
+15,6,Mleash,1.5978,Jumpman,Passing,1778.888,S,H,N
+15,6,Mleash,2.4128,Jumpman,Feeding,0,S,H,N
+16,1,Rpela,4.4528,unknown,Passing,2944.218,S,M,N
+16,1,Rpela,4.8267,unknown,Passing,2092.776,S,M,N
+16,1,Rpela,5.4533,unknown,Passing,2382.209,D,M,N
+16,1,Rpela,6.2383,Gill,Passing,3184.463,D,M,N
+16,1,Rpela,6.4358,Gill,Passing,577.5,V,H,Y
+16,1,Rpela,6.9003,Jumpman,Passing,3934.755,D,L,N
+16,1,Rpela,11.4236,Gill,Passing,616.778,V,H,N
+16,1,Rpela,12.1125,unknown,Passing,2346.927,D,M,N
+16,1,Rpela,14.6809,Franklin,Passing,720.063,V,H,Y
+16,1,Rpela,15.1359,Franklin,Passing,2583.729,D,M,N
+16,2,SS,2.4628,London,Passing,3654.204,V,M,N
+16,2,SS,5.7789,unknown,Passing,3650.602,D,M,N
+16,2,SS,6.1614,unknown,Passing,3139.311,D,M,N
+16,2,SS,6.5911,unknown,Passing,3531.171,D,L,N
+16,2,SS,6.8067,unknown,Passing,4352.147,D,L,N
+16,3,Wax,0.7789,unknown,Passing,2975.081,S,M,N
+16,3,Wax,1.2106,Alpha 5,Passing,2514.859,S,M,N
+16,3,Wax,1.7489,Alpha 5,Passing,782.612,S,H,N
+16,3,Wax,2.1564,Alpha 5,Passing,3062.056,D,L,N
+16,3,Wax,2.5528,Alpha 5,Passing,922.229,S,H,N
+16,3,Wax,3.7081,Alpha 5,Passing,914.034,S,H,N
+16,3,Wax,4.3006,Alpha 5,Passing,1460.607,V,H,N
+16,3,Wax,5.5042,Alpha 5,Passing,2138.563,D,M,N
+16,3,Wax,5.6981,Alpha 5,Passing,525.515,S,H,N
+16,3,Wax,8.2325,Alpha 5,Passing,1132.919,S,M,N
+16,3,Wax,8.7142,Alpha 5,Passing,3033.35,D,L,N
+16,3,Wax,8.9331,Alpha 5,Passing,1561.076,S,H,N
+16,3,Wax,9.0034,Alpha 5,Passing,817.269,S,H,N
+16,3,Wax,9.7045,Alpha 5,Passing,898.94,S,H,N
+16,3,Wax,10.9372,Alpha 5,Passing,217.612,S,H,N
+16,3,Wax,11.0303,Alpha 5,Feeding,0,S,H,N
+16,4,Mband,0.3489,Alpha 5,Passing,1693.999,S,M,N
+16,4,Mband,0.5544,Alpha 5,Passing,389.019,S,H,Y
+16,4,Mband,0.8856,Alpha 5,Passing,3386.974,D,M,N
+16,4,Mband,1.36,Alpha 5,Passing,3333.942,D,L,N
+16,4,Mband,1.8006,unknown,Passing,4681.562,D,L,N
+16,4,Mband,3.487,Curl,Passing,465.558,S,H,N
+16,4,Mband,3.7247,Curl,Passing,1531.977,S,H,N
+16,4,Mband,4.1256,Curl,Feeding,0,S,H,N
+16,5,Control,2.6217,unknown,Passing,4370.538,S,L,N
+16,5,Control,4.5428,Curl,Passing,314.752,S,H,N
+16,5,Control,5.0603,Curl,Passing,1089.976,S,H,N
+16,5,Control,5.6733,Alpha 5,Passing,60.712,S,H,N
+16,5,Control,5.9667,unknown,Passing,1178.459,S,M,N
+16,5,Control,6.3642,unknown,Passing,3051.683,D,M,N
+16,5,Control,7.0064,Curl,Passing,5145.279,D,M,N
+16,5,Control,7.3808,Curl,Passing,1899.442,S,M,N
+16,5,Control,7.9789,Curl,Passing,1131.99,S,M,N
+16,5,Control,8.4178,Curl,Passing,1068.97,S,M,N
+16,5,Control,8.8047,Curl,Passing,712.079,S,M,N
+16,5,Control,8.9439,Curl,Passing,24.409,S,H,Y
+16,5,Control,9.0767,Curl,Feeding,0,S,H,N
+16,6,Mleash,0.635,unknown,Passing,5391.283,S,L,N
+16,6,Mleash,1.9008,Alpha 5,Feeding,0,S,H,Y
+16,6,Mleash,2.7089,Alpha 5,Feeding,0,S,H,N
+17,1,SS,3.0231,unknown,Passing,6450.409,D,L,N
+17,1,SS,3.3633,Alpha 5,Passing,2296.495,S,H,N
+17,1,SS,7.0906,Alpha 5,Passing,NA,D,L,N
+17,1,SS,7.3042,Alpha 5,Passing,2292.198,S,H,N
+17,1,SS,9.5847,Alpha 5,Passing,735.48,D,H,Y
+17,1,SS,12.4456,Alpha 5,Passing,1333.337,S,M,Y
+17,1,SS,12.907,Alpha 5,Passing,2289.834,S,M,N
+17,1,SS,13.5061,Alpha 5,Passing,2860.179,D,M,N
+17,1,SS,14.0814,Alpha 5,Passing,3103.602,D,M,N
+17,1,SS,14.5348,unknown,Passing,3241.109,S,M,N
+17,2,Mband,0.2217,Alpha 5,Passing,3146.917,S,M,N
+17,2,Mband,0.8433,Alpha 5,Passing,689.799,S,H,N
+17,2,Mband,0.9275,Alpha 5,Feeding,0,S,H,N
+17,3,Wax,1.1353,Alpha 5,Feeding,0,S,H,N
+17,4,Mleash,0.4039,Alpha 5,Feeding,0,S,H,N
+17,4,Mleash,0.6389,Alpha 5,Feeding,0,S,H,N
+17,5,Control,0.8478,Alpha 5,Feeding,0,S,H,N
+17,5,Control,2.2161,Holepunch,Passing,1257.81,S,H,N
+17,5,Control,2.2994,Holepunch,Passing,489.018,S,H,N
+17,5,Control,2.5672,Holepunch,Feeding,0,S,H,N
+17,5,Control,2.9453,Holepunch,Feeding,0,S,H,N
+17,6,Rpela,0.2622,Alpha 5,Passing,2121.175,S,M,N
+17,6,Rpela,1.4169,Alpha 5,Passing,NA,S,L,N
+17,6,Rpela,1.9358,Alpha 5,Passing,1321.553,S,M,N
+17,6,Rpela,2.0781,Alpha 5,Feeding,0,S,H,N
+17,6,Rpela,2.1597,Alpha 5,Feeding,0,S,H,N
+18,1,Mleash,0.5575,Alpha 5,Passing,3149.43,S,L,N
+18,1,Mleash,1.4389,Jumpman,Passing,1274.944,V,H,Y
+18,1,Mleash,3.3408,Holepunch,Passing,2004.846,S,H,N
+18,1,Mleash,3.4631,Holepunch,Feeding,0,S,H,N
+18,2,Rpela,1.7322,Holepunch,Feeding,0,S,H,N
+18,3,Control,2.4117,Holepunch,Passing,3546.385,S,M,N
+18,3,Control,4.3586,Jumpman,Passing,3005.195,S,M,N
+18,3,Control,4.6336,Jumpman,Passing,1794.34,S,M,N
+18,3,Control,6.0978,Holepunch,Feeding,0,S,M,N
+18,4,SS,0.2642,Alpha 5,Passing,1289.758,S,M,Y
+18,4,SS,0.4653,Alpha 5,Passing,2786.269,S,H,N
+18,4,SS,0.8539,unknown,Passing,NA,S,M,N
+18,4,SS,2.2547,Alpha 5,Passing,1187.653,S,M,N
+18,4,SS,2.2758,Alpha 5,Passing,681.248,S,H,N
+18,4,SS,3.4292,Holepunch,Feeding,0,S,H,Y
+18,4,SS,3.5903,Alpha 5,Passing,3755.457,S,L,N
+18,4,SS,3.6208,unknown,Feeding,0,S,H,N
+18,5,Mband,1.2772,Holepunch,Feeding,0,S,H,N
+18,6,Wax,1.4347,Alpha 5,Passing,2130.511,S,H,N
+18,6,Wax,1.5761,Alpha 5,Feeding,0,S,H,N
+18,6,Wax,1.6983,Alpha 5,Feeding,0,S,H,N
+19,1,SS,2.6864,Undercoat,Passing,4955.703,S,M,N
+19,1,SS,3.1586,Undercoat,Passing,2701.981,S,M,N
+19,1,SS,3.3895,Undercoat,Passing,2638.496,D,M,N
+19,1,SS,4.0733,Holepunch,Passing,2238.232,S,M,N
+19,1,SS,4.21,Holepunch,Passing,1033.643,S,H,Y
+19,1,SS,4.3636,Holepunch,Passing,1530.69,S,H,N
+19,1,SS,4.4797,Holepunch,Feeding,0,S,H,N
+19,2,Rpela,1.0719,Holepunch,Passing,1549.739,S,M,N
+19,2,Rpela,1.6167,Holepunch,Passing,1592.717,S,H,N
+19,2,Rpela,1.6897,Holepunch,Feeding,0,S,H,N
+19,3,Mband,1.2633,Holepunch,Feeding,0,S,H,N
+19,3,Control,2.0244,unknown,Passing,3479.556,S,H,N
+19,3,Mband,2.1994,Holepunch,Passing,2901.211,S,H,N
+19,3,Mband,2.3781,Holepunch,Feeding,0,S,H,N
+19,3,Mband,3.9958,Holepunch,Passing,3582.513,S,H,N
+19,3,Mband,4.4556,Holepunch,Feeding,0,S,H,N
+19,3,Mband,4.5156,Holepunch,Feeding,0,S,H,N
+19,4,Wax,3.8945,Undercoat,Passing,4500.745,S,H,N
+19,4,Wax,4.8356,Holepunch,Feeding,0,S,H,N
+19,5,Mleash,0.4092,Curl,Passing,1297.177,S,H,N
+19,5,Mleash,0.5067,Curl,Passing,818.921,S,H,N
+19,5,Mleash,0.6539,Curl,Passing,701.825,S,L,N
+19,5,Mleash,0.9425,Curl,Feeding,0,S,H,N
+19,5,Mleash,1.2225,Curl,Passing,1131.672,S,H,N
+19,5,Mleash,1.8044,Alpha 5,Passing,2245.358,S,L,N
+19,5,Mleash,2.1839,Holepunch,Feeding,0,S,H,N
+19,6,Control,0.2792,Alpha 5,Passing,NA,S,L,N
+19,6,Control,0.5817,Alpha 5,Passing,NA,S,L,N
+19,6,Control,1.5567,Holepunch,Feeding,0,S,H,N
+20,1,Rpela,0.5978,Holepunch,Feeding,0,S,H,N
+20,2,Mband,1.4147,Alpha 5,Passing,787.499,S,M,N
+20,2,Mband,1.6267,Alpha 5,Feeding,0,S,H,N
+20,3,Wax,3.6956,Holepunch,Passing,1654.676,S,M,N
+20,3,Wax,3.7914,Holepunch,Feeding,0,S,H,N
+20,3,Mband,4.5033,Holepunch,Passing,1772.675,S,H,N
+20,3,Wax,4.7661,Holepunch,Feeding,0,S,H,N
+20,4,Control,4.3875,unknown,Passing,3165.655,D,L,N
+20,4,Control,4.6028,Holepunch,Feeding,0,S,H,N
+20,5,Mleash,0.4761,Alpha 5,Feeding,0,S,H,N
+20,5,Mleash,0.7697,Alpha 5,Passing,NA,S,H,N
+20,5,Mleash,2.5381,Alpha 5,Passing,3505.144,D,M,N
+20,5,Mleash,3.4678,Alpha 5,Passing,1792.814,S,H,N
+20,5,Mleash,3.7814,Alpha 5,Passing,1248.921,S,M,N
+20,5,Mleash,3.9925,Alpha 5,Feeding,0,S,H,N
+20,6,SS,0.6431,Holepunch,Passing,2434.016,S,M,M
+20,6,SS,0.8856,Holepunch,Feeding,0,S,H,N
+21,1,Mband,2.6369,Aquaman,Passing,3046.803,D,L,N
+21,1,Mband,3.2342,Aquaman,Passing,950.596,S,M,N
+21,1,Mband,5.0872,Aquaman,Passing,4484.878,D,L,N
+21,1,Mband,5.7542,Aquaman,Passing,1083.814,S,M,N
+21,1,Mband,8.7395,Gill,Passing,2309.702,D,M,N
+21,1,Mband,8.8578,Gill,Passing,1602.212,D,L,N
+21,1,Mband,8.8581,Gill,Passing,1661.425,D,M,N
+21,1,Mband,10.3609,Alpha 5,Feeding,0,S,H,N
+21,2,Control,6.7211,Aquaman,Feeding,0,S,H,N
+21,2,Control,7.0539,Aquaman,Passing,NA,S,M,N
+21,2,Control,7.5792,Aquaman,Feeding,0,S,H,N
+21,2,Control,8.1364,Aquaman,Feeding,0,S,H,N
+21,2,Control,8.7872,Alpha 5,Passing,1621.843,S,M,N
+21,2,Control,8.9139,Alpha 5,Feeding,0,S,H,N
+21,2,Control,9.0197,Alpha 5,Passing,1285.324,D,M,N
+21,2,Control,9.0981,Alpha 5,Feeding,0,S,H,N
+21,2,Control,9.2478,Alpha 5,Feeding,0,S,H,N
+21,3,SS,0.73,Alpha 5,Passing,3020.94,D,L,N
+21,3,SS,1.0381,Alpha 5,Passing,1962.099,D,M,Y
+21,3,SS,4.492,unknown,Passing,NA,S,M,N
+21,3,SS,4.6083,Alpha 5,Passing,978.066,S,M,Y
+21,3,SS,4.7095,Alpha 5,Feeding,0,S,H,Y
+21,3,SS,5.4647,Aquaman,Passing,2246.495,S,M,N
+21,3,SS,5.9167,Alpha 5,Passing,2840.864,S,M,N
+21,3,SS,6.8095,Aquaman,Passing,3937.312,D,L,N
+21,3,SS,8.8931,Alpha 5,Passing,1518.512,S,M,N
+21,3,SS,9.2947,Alpha 5,Passing,1854.4,S,M,N
+21,3,SS,9.5159,Aquaman,Passing,2669.936,D,M,N
+21,3,SS,9.8545,Alpha 5,Passing,3009.736,S,M,N
+21,3,SS,9.9845,Aquaman,Passing,2302.344,D,M,N
+21,3,SS,10.3089,Alpha 5,Passing,3047.877,S,M,N
+21,3,SS,10.6925,Alpha 5,Passing,1884.078,S,M,N
+21,3,SS,10.802,Alpha 5,Passing,1174.926,S,H,Y
+21,3,SS,11.0025,Aquaman,Passing,2061.548,S,M,N
+21,3,SS,11.2195,Alpha 5,Feeding,0,S,H,Y
+21,3,SS,14.4573,Aquaman,Passing,2002.161,S,M,Y
+21,3,SS,14.6728,Aquaman,Passing,1800.632,S,M,Y
+21,3,SS,14.9978,Aquaman,Passing,3670.984,S,L,N
+21,3,SS,15.2239,Aquaman,Passing,2368.655,S,L,Y
+21,4,Wax,0.4717,Aquaman,Feeding,0,S,H,N
+21,4,Wax,1.5389,Shark Watch,Feeding,0,S,H,N
+21,5,Mleash,1.4706,Shark Watch,Passing,925.84,S,M,N
+21,5,Mleash,1.5625,Shark Watch,Feeding,0,S,H,N
+21,5,Mleash,1.7708,Shark Watch,Passing,1714.144,D,L,N
+21,5,Mleash,2.4975,Shark Watch,Feeding,0,S,H,N
+21,6,Rpela,0.3172,Shark Watch,Passing,2018.982,S,M,N
+21,6,Rpela,0.5511,Alpha 5,Passing,3296.598,S,M,N
+21,6,Rpela,1.0678,Shark Watch,Feeding,0,S,H,N
+22,1,Mleash,0.7528,Shark Watch,Passing,1492.816,S,M,N
+22,1,Mleash,0.8158,Shark Watch,Passing,903.965,S,H,N
+22,1,Mleash,2.6333,Shark Watch,Feeding,0,S,H,N
+22,2,Control,1.1728,Shark Watch,Passing,846.037,S,M,N
+22,2,Control,1.2789,Shark Watch,Passing,628.199,S,H,N
+22,2,Control,1.5981,Aquaman,Passing,1432.721,S,M,N
+22,2,Control,1.7006,Shark Watch,Feeding,0,S,H,N
+22,3,Wax,1.1394,Shark Watch,Feeding,0,S,H,N
+22,4,Rpela,2.7319,Shark Watch,Passing,779.14,D,M,N
+22,4,Rpela,3.2397,Shark Watch,Feeding,0,S,H,N
+22,5,Mband,2.2703,Shark Watch,Feeding,0,S,H,N
+22,5,Mband,2.9103,Shark Watch,Feeding,0,S,H,N
+22,5,Mband,3.035,Shark Watch,Feeding,0,S,H,N
+22,5,Mband,3.2011,Shark Watch,Passing,577.437,S,H,N
+22,5,Mband,4.4345,Shark Watch,Feeding,0,S,H,N
+22,6,SS,0.3214,Shark Watch,Passing,422.387,S,M,N
+22,6,SS,0.6186,Shark Watch,Passing,869.649,S,M,N
+22,6,SS,3.5311,Shark Watch,Passing,1738.973,D,M,N
+22,6,SS,3.7997,Shark Watch,Passing,1265.025,S,M,N
+22,6,SS,3.9795,Shark Watch,Passing,1197.942,S,M,N
+22,6,SS,4.2233,Shark Watch,Passing,1374.787,S,M,N
+22,6,SS,4.4753,Shark Watch,Passing,2142.953,D,L,N
+22,6,SS,4.5767,Shark Watch,Feeding,0,S,H,N
+23,1,Mband,1.5278,Shark Watch,Feeding,0,S,H,N
+23,3,Mleash,1.5769,Shark Watch,Feeding,0,S,H,N
+23,4,SS,0.8139,Shark Watch,Passing,620.653,S,H,Y
+23,4,SS,1.0439,Shark Watch,Passing,248.093,S,H,Y
+23,4,SS,1.1311,Shark Watch,Feeding,0,S,H,N
+23,5,Control,1.4775,Shark Watch,Passing,217.623,S,H,N
+23,5,Control,1.6417,Shark Watch,Feeding,0,S,H,N
+23,5,Control,1.7483,Shark Watch,Feeding,0,S,H,N
+23,5,Control,1.8925,Shark Watch,Feeding,0,S,H,N
+23,5,Control,2.3164,Shark Watch,Feeding,0,S,H,N
+23,5,Control,2.4172,Shark Watch,Feeding,0,S,H,N
+23,5,Control,2.6506,Shark Watch,Feeding,0,S,H,N
+23,5,Control,2.855,Shark Watch,Feeding,0,S,H,N
+23,5,Control,4.3628,Shark Watch,Feeding,0,S,H,N
+23,5,Control,4.5503,Shark Watch,Feeding,0,S,H,N
+23,6,Wax,0.5633,Horseshoe,Passing,2120.955,S,L,N
+23,6,Wax,0.7769,Horseshoe,Passing,2209.213,S,M,N
+23,6,Wax,2.3808,Shark Watch,Passing,769.866,V,M,N
+23,6,Wax,2.6619,Shark Watch,Feeding,0,S,H,N
+23,6,Wax,3.0589,Shark Watch,Feeding,0,S,H,N
+24,1,Rpela,2.3231,Shark Watch,Feeding,0,S,H,N
+24,1,Rpela,2.4517,Shark Watch,Passing,810.786,S,H,N
+24,1,Rpela,2.62,Shark Watch,Passing,1014.649,S,M,Y
+24,1,Rpela,2.9742,Shark Watch,Feeding,0,S,H,N
+24,1,Rpela,3.0547,Shark Watch,Feeding,0,S,H,N
+24,1,Rpela,3.3833,Shark Watch,Passing,1883.122,D,M,N
+24,1,Rpela,3.7586,Shark Watch,Feeding,0,S,H,N
+24,1,Rpela,5.1564,Shark Watch,Passing,666.37,S,M,N
+24,1,Rpela,6.737,Aquaman,Passing,950.715,V,H,N
+24,1,Rpela,6.9864,Shark Watch,Passing,1130.04,S,M,Y
+24,1,Rpela,7.4767,unknown,Passing,1390.496,D,L,N
+24,1,Rpela,8.6922,Shark Watch,Passing,583.842,D,M,Y
+24,1,Rpela,9.1189,Shark Watch,Passing,297.787,S,H,N
+24,1,Rpela,10.1911,Shark Watch,Passing,794.781,D,M,N
+24,1,Rpela,10.6117,Shark Watch,Passing,593.42,S,M,N
+24,1,Rpela,12.4195,Alpha 5,Feeding,0,S,H,N
+24,2,Mband,1.0097,Alpha 5,Feeding,0,S,H,N
+24,2,Mband,1.0944,Alpha 5,Feeding,0,S,H,N
+24,2,Mband,1.2947,Alpha 5,Feeding,0,S,H,N
+24,2,Mband,1.4167,Alpha 5,Feeding,0,S,H,N
+24,2,Mband,1.4833,Alpha 5,Feeding,0,S,H,N
+24,2,Mband,1.7267,Alpha 5,Passing,306.224,S,M,N
+24,2,Mband,1.9847,Alpha 5,Feeding,0,S,H,N
+24,2,Mband,1.9847,Shark Watch,Feeding,0,S,H,N
+24,2,Mband,2.3822,Shark Watch,Feeding,0,S,H,N
+24,2,Mband,6.5136,Shark Watch,Feeding,0,S,H,N
+24,2,Mband,6.7742,Shark Watch,Feeding,0,S,H,N
+24,2,Mband,7.1267,Shark Watch,Feeding,0,S,H,N
+24,2,Mband,7.2456,Shark Watch,Feeding,0,S,H,N
+24,3,SS,8.7406,Shark Watch,Passing,2720.797,D,L,N
+24,3,SS,8.9092,Shark Watch,Passing,2544.609,D,L,N
+24,3,SS,9.0656,Shark Watch,Passing,789.757,S,H,N
+24,3,SS,9.342,Shark Watch,Passing,560.468,S,H,Y
+24,3,SS,9.4706,Shark Watch,Passing,665.702,S,H,Y
+24,3,SS,9.7222,unknown,Passing,2396.99,D,L,N
+24,3,SS,9.9,Shark Watch,Passing,2749.713,D,L,N
+24,3,SS,12.4459,Shark Watch,Passing,1111.967,S,M,Y
+24,3,SS,13.6006,Shark Watch,Passing,2226.378,D,M,N
+24,4,Control,1.0264,Curl,Feeding,0,S,H,N
+24,5,Wax,0.9739,Shark Watch,Feeding,0,S,H,N
+24,6,Mleash,3.4728,Shark Watch,Feeding,0,S,H,N
+25,1,Control,2.1978,Alpha 5,Feeding,0,S,H,N
+25,2,Wax,0.4267,Alpha 5,Passing,433.761,S,H,N
+25,2,Wax,0.4814,Alpha 5,Feeding,0,S,H,N
+25,3,Mleash,0.4503,Alpha 5,Feeding,0,S,H,N
+25,3,Mleash,0.5383,Alpha 5,Feeding,0,S,H,N
+25,3,Mleash,1.2711,Shark Watch,Feeding,0,S,H,N
+25,4,SS,1.6842,Shark Watch,Passing,905.327,S,M,Y
+25,4,SS,1.8756,Shark Watch,Passing,725.744,S,H,Y
+25,4,SS,2.2272,Shark Watch,Passing,872.047,S,M,N
+25,4,SS,2.4192,Shark Watch,Passing,1033.383,S,H,N
+25,4,SS,2.5581,Shark Watch,Passing,461.404,S,H,N
+25,4,SS,2.8061,Shark Watch,Passing,347.506,S,H,Y
+25,4,SS,2.8975,Shark Watch,Feeding,0,S,H,N
+25,5,Mband,2.4683,Alpha 5,Feeding,0,S,H,N
+25,6,Rpela,1.8161,Shark Watch,Feeding,0,S,H,N
+25,6,Rpela,1.9258,Shark Watch,Passing,1143.643,S,H,Y
+25,6,Rpela,2.1686,Shark Watch,Feeding,0,S,H,N
+25,6,Rpela,2.2894,Shark Watch,Feeding,0,S,H,N
+25,6,Rpela,3.7586,Shark Watch,Passing,1120.614,S,M,N
+25,6,Rpela,3.9997,Shark Watch,Feeding,0,S,H,N
+25,6,Rpela,4.3097,Shark Watch,Feeding,0,S,H,N
+25,6,Rpela,4.4683,Aquaman,Passing,1083.704,V,H,N
+25,6,Rpela,5.0131,Shark Watch,Passing,NA,S,M,N
+25,6,Rpela,5.6308,Shark Watch,Passing,683.005,D,M,N
+25,6,Rpela,6.9925,Shark Watch,Passing,1857.47,S,L,N
+25,6,Rpela,8.1197,Shark Watch,Passing,1891.883,S,M,N
+25,6,Rpela,8.5014,Shark Watch,Feeding,0,S,H,N
+26,1,Mband,2.0336,Shark Watch,Passing,NA,S,M,N
+26,1,Mband,2.6906,Shark Watch,Passing,1403.298,D,L,N
+26,1,Mband,3.5339,Shark Watch,Feeding,0,S,H,N
+26,2,Mleash,,Shark Watch,Passing,3500,S,H,N
+26,2,Mleash,,unknown,Passing,2000,S,H,N
+26,2,Mleash,,Shark Watch,Passing,500,S,H,N
+26,2,Mleash,,Shark Watch,Feeding,0,S,H,N
+26,2,Mleash,,Shark Watch,Feeding,0,S,H,N
+26,2,Mleash,,Shark Watch,Feeding,0,S,H,N
+26,2,Mleash,,Shark Watch,Feeding,0,S,H,N
+26,2,Mleash,,unknown,Passing,2500,S,H,N
+26,2,Mleash,,Shark Watch,Passing,500,S,H,N
+26,2,Mleash,,unknown,Feeding,0,S,H,N
+26,2,Mleash,,Shark Watch,Feeding,0,S,H,N
+26,2,Mleash,,unknown,Passing,3500,S,M,N
+26,2,Mleash,,unknown,Passing,1500,S,H,N
+26,2,Mleash,,Shark Watch,Passing,500,S,H,N
+26,2,Mleash,,unknown,Passing,5500,S,M,N
+26,2,Mleash,,unknown,Passing,6500,S,M,N
+26,2,Mleash,,Shark Watch,Feeding,0,S,H,N
+26,3,SS,2.0542,unknown,Passing,NA,D,M,N
+26,3,SS,2.3397,Shark Watch,Passing,NA,S,H,N
+26,3,SS,2.4669,unknown,Passing,NA,D,M,N
+26,3,SS,2.6758,unknown,Passing,NA,S,H,N
+26,3,SS,2.7839,unknown,Feeding,0,S,H,N
+26,3,SS,2.9517,unknown,Feeding,0,S,H,N
+26,3,SS,4.3375,Shark Watch,Passing,NA,D,L,N
+26,3,SS,4.6189,Shark Watch,Passing,NA,D,M,N
+26,3,SS,4.8689,Shark Watch,Passing,NA,D,H,N
+26,3,SS,5.0216,Shark Watch,Feeding,0,S,H,N
+26,3,SS,5.1975,Shark Watch,Feeding,0,S,H,N
+26,3,SS,5.7444,Shark Watch,Passing,NA,S,H,Y
+26,3,SS,5.9675,Shark Watch,Passing,NA,S,H,N
+26,3,SS,6.4744,Shark Watch,Passing,NA,S,H,N
+26,3,SS,7.1727,Aquaman,Passing,NA,S,H,N
+26,3,SS,7.5658,Shark Watch,Passing,NA,D,M,N
+26,3,SS,7.9014,unknown,Passing,NA,D,M,N
+26,3,SS,8.6708,Shark Watch,Passing,NA,D,M,N
+26,3,SS,8.9144,Shark Watch,Passing,NA,D,M,N
+26,3,SS,8.9719,unknown,Passing,NA,D,L,N
+26,3,SS,9.1811,Shark Watch,Passing,NA,D,L,N
+26,3,SS,9.4989,unknown,Passing,NA,D,L,N
+26,3,SS,12.0883,Shark Watch,Passing,NA,D,M,N
+26,3,SS,12.3247,Shark Watch,Passing,NA,V,H,M
+26,3,SS,12.3572,Shark Watch,Feeding,0,S,H,N
+26,3,SS,13.8374,Shark Watch,Passing,NA,S,H,N
+26,3,SS,14.0208,unknown,Feeding,0,S,H,N
+26,3,SS,14.1911,Shark Watch,Feeding,0,S,H,N
+26,3,SS,15.268,Shark Watch,Passing,NA,D,M,N
+26,4,Wax,0.1117,Shark Watch,Passing,NA,D,M,N
+26,4,Wax,0.5542,Shark Watch,Passing,NA,D,M,N
+26,4,Wax,1.578,Shark Watch,Passing,NA,D,M,N
+26,4,Wax,2.6511,Aquaman,Passing,NA,D,M,N
+26,4,Wax,3.4405,Shark Watch,Passing,NA,D,M,N
+26,4,Wax,3.9558,Shark Watch,Passing,NA,S,H,N
+26,4,Wax,3.9564,Shark Watch,Feeding,0,S,H,N
+26,4,Wax,4.0872,Shark Watch,Feeding,0,S,H,N
+26,4,Wax,4.0872,Aquaman,Feeding,0,S,H,N
+26,4,Wax,5.2447,unknown,Passing,NA,D,H,N
+26,4,Wax,6.14,Shark Watch,Passing,NA,S,M,N
+26,4,Wax,6.4486,Shark Watch,Passing,NA,S,M,N
+26,4,Wax,7.8772,Shark Watch,Passing,NA,S,H,N
+26,4,Wax,8.0239,Shark Watch,Feeding,0,S,H,N
+26,4,Wax,8.3211,Shark Watch,Passing,NA,S,H,N
+26,4,Wax,10.0958,Aquaman,Passing,NA,V,H,N
+26,4,Wax,11.6755,Aquaman,Passing,NA,V,H,N
+26,4,Wax,12.1877,Aquaman,Feeding,0,V,H,N
+26,5,Rpela,1.7822,Aquaman,Passing,2497.736,D,M,N
+26,5,Rpela,3.4455,Aquaman,Passing,1350.258,V,H,N
+26,5,Rpela,4.8375,unknown,Passing,1786.112,D,M,N
+26,5,Rpela,5.5941,Alpha 5,Passing,1949.433,S,H,N
+26,5,Rpela,5.7972,Alpha 5,Passing,2200.61,S,H,N
+26,5,Rpela,6.0028,Alpha 5,Passing,1933.731,S,H,N
+26,5,Rpela,6.2364,Alpha 5,Passing,1412.495,S,H,N
+26,5,Rpela,6.3744,Alpha 5,Passing,1568.949,S,H,N
+26,5,Rpela,6.4969,Alpha 5,Passing,1685.935,S,H,N
+26,5,Rpela,6.5816,Alpha 5,Passing,1564.937,S,H,N
+26,5,Rpela,7.32,unknown,Passing,7755.027,S,H,N
+26,5,Rpela,7.7377,Alpha 5,Passing,1077.998,S,H,N
+26,5,Rpela,8.1905,Alpha 5,Passing,389.634,S,H,N
+26,5,Rpela,8.4408,unknown,Passing,3687.034,S,H,N
+26,5,Rpela,8.7302,Alpha 5,Passing,514.753,S,H,N
+26,5,Rpela,9.4422,Alpha 5,Passing,NA,S,H,N
+26,5,Rpela,9.6905,Alpha 5,Feeding,0,S,H,N
+26,6,Control,0.1372,Shark Watch,Passing,1372.715,S,M,N
+26,6,Control,0.6847,Shark Watch,Feeding,0,S,H,N
+26,6,Control,0.8506,Shark Watch,Feeding,0,S,H,N
+26,6,Control,2.0953,Alpha 5,Passing,2495.266,S,H,N
+26,6,Control,2.4275,Alpha 5,Feeding,0,S,H,N
+26,6,Control,2.5719,Shark Watch,Passing,756.854,S,H,N
+26,6,Control,2.7628,Alpha 5,Feeding,0,S,H,N
+26,6,Control,2.8547,Shark Watch,Passing,2129.952,S,H,N
+26,6,Control,2.9683,Alpha 5,Passing,1174.903,S,H,N
+26,6,Control,3.0053,Alpha 5,Passing,534.604,S,H,N
+26,6,Control,3.1097,Alpha 5,Feeding,0,S,H,N
+26,6,Control,3.2342,Alpha 5,Feeding,0,S,H,N
+26,6,Control,3.3311,Alpha 5,Feeding,0,S,H,N
+26,6,Control,3.5067,Alpha 5,Passing,795.799,S,H,N
+26,6,Control,3.693,Alpha 5,Feeding,0,S,H,N
+27,1,Wax,0.6061,Shark Watch,Passing,1193.651,V,H,N
+27,1,Wax,1.2378,Shark Watch,Passing,3430.649,D,M,N
+27,1,Wax,1.5055,Shark Watch,Passing,1777.311,S,H,N
+27,1,Wax,1.7925,Shark Watch,Feeding,0,S,H,N
+27,1,Wax,2.0214,Shark Watch,Feeding,0,S,H,N
+27,1,Wax,2.2317,Shark Watch,Feeding,0,S,H,N
+27,2,Rpela,0.7406,Shark Watch,Passing,519.601,S,H,N
+27,2,Wax,1.4672,Shark Watch,Passing,888.438,S,H,N
+27,2,Wax,1.7544,Shark Watch,Passing,844.086,S,H,N
+27,2,Wax,2.2364,Shark Watch,Passing,263.432,S,H,M
+27,2,Wax,2.6578,Shark Watch,Feeding,0,S,H,M
+27,2,Wax,3.2544,Shark Watch,Feeding,0,S,H,M
+27,3,Mleash,1.6708,Alpha 5,Passing,1034.237,S,H,N
+27,3,Mleash,1.7214,Alpha 5,Feeding,0,S,H,N
+27,3,Mleash,1.9289,Alpha 5,Feeding,0,S,H,N
+27,4,SS,1.1464,Alpha 5,Passing,1328.183,S,L,N
+27,4,SS,1.5911,unknown,Passing,NA,S,H,N
+27,4,SS,2.2828,unknown,Passing,3912.67,D,L,N
+27,4,SS,2.675,Shark Watch,Passing,8064.29,D,L,N
+27,4,SS,2.9725,Shark Watch,Passing,NA,S,H,N
+27,4,SS,3.2622,Shark Watch,Passing,1932.476,S,L,N
+27,4,SS,3.9408,unknown,Passing,4587.289,S,M,N
+27,4,SS,3.9758,unknown,Passing,3001.514,D,M,N
+27,4,SS,4.5611,Shark Watch,Passing,3889.758,D,L,N
+27,4,SS,4.6686,Shark Watch,Passing,1994.976,S,H,N
+27,4,SS,5.2855,Shark Watch,Passing,2027.292,S,H,N
+27,4,SS,5.4383,Alpha 5,Passing,1503.601,S,H,N
+27,4,SS,5.6425,Alpha 5,Passing,1938.22,S,H,N
+27,4,SS,5.905,Shark Watch,Passing,1605.851,D,H,N
+27,4,SS,5.9922,Alpha 5,Passing,1542.253,S,H,N
+27,4,SS,6.1625,Alpha 5,Passing,1603.064,S,H,N
+27,4,SS,6.3622,Alpha 5,Passing,1563.444,S,H,N
+27,4,SS,6.7855,Alpha 5,Passing,2530.348,S,H,N
+27,4,SS,7.1752,Holepunch,Passing,3213.537,S,H,N
+27,4,SS,7.34,Alpha 5,Passing,3094.479,S,M,N
+27,4,SS,7.7266,Holepunch,Passing,4557.186,S,L,N
+27,4,SS,7.9661,Holepunch,Passing,2771.816,D,M,N
+27,4,SS,8.0666,unknown,Passing,NA,S,L,N
+27,4,SS,8.4736,Alpha 5,Passing,2033.082,S,H,N
+27,4,SS,8.6136,Alpha 5,Passing,1056.428,S,H,N
+27,4,SS,8.7319,Alpha 5,Passing,850.226,S,H,N
+27,4,SS,8.835,Alpha 5,Feeding,0,S,H,N
+27,5,Mband,2.6236,Shark Watch,Passing,2067.909,S,L,N
+27,5,Mband,2.9208,Shark Watch,Feeding,0,S,H,N
+27,5,Mband,3.0458,Shark Watch,Passing,629.721,S,H,N
+27,5,Mband,3.2694,Shark Watch,Feeding,0,S,H,N
+27,5,Mband,3.3625,Shark Watch,Feeding,0,S,H,N
+27,6,Control,0.5,Holepunch,Passing,215.165,S,H,N
+27,6,Control,0.5747,Holepunch,Feeding,0,S,H,N
+28,1,Mleash,0.2567,unknown,Passing,1396.793,S,H,N
+28,1,Mleash,1.0431,Alpha 5,Passing,820.932,S,H,N
+28,1,Mleash,1.6153,Holepunch,Feeding,0,S,H,N
+28,2,Control,0.8033,Alpha 5,Passing,2935.713,S,L,N
+28,2,Control,0.955,Alpha 5,Passing,910.475,S,H,N
+28,2,Control,1.0394,Alpha 5,Feeding,0,S,H,N
+28,3,Rpela,0.4431,unknown,Passing,2166.414,S,M,N
+28,3,Rpela,0.6081,unknown,Feeding,0,S,H,N
+28,4,SS,0.0586,unknown,Passing,NA,S,H,N
+28,4,SS,0.3469,Alpha 5,Passing,3768.257,S,L,N
+28,4,SS,0.4914,Alpha 5,Passing,1981.983,S,H,N
+28,4,SS,0.6575,Shark Watch,Passing,1816.93,D,M,N
+28,4,SS,0.8781,Shark Watch,Passing,2287.55,D,M,N
+28,4,SS,1.2047,Alpha 5,Passing,2884.811,S,H,N
+28,4,SS,1.6105,unknown,Passing,2238.525,S,H,N
+28,4,SS,1.6105,unknown,Passing,2238.525,S,H,N
+28,4,SS,1.6105,unknown,Passing,3423.985,S,H,N
+28,4,SS,1.6105,unknown,Passing,3423.985,S,H,N
+28,4,SS,1.7572,unknown,Passing,NA,S,H,N
+28,4,SS,1.7822,Holepunch,Passing,3022.699,D,M,N
+28,4,SS,2.0883,Alpha 5,Passing,1598.568,S,H,N
+28,4,SS,2.6855,Shark Watch,Passing,846.939,S,H,N
+28,4,SS,2.9347,Aquaman,Passing,3152.995,S,M,N
+28,4,SS,3.0955,Aquaman,Feeding,0,S,H,N
+28,4,SS,3.2078,Holepunch,Feeding,0,S,H,N
+28,5,Wax,0.7431,Alpha 5,Passing,941.146,S,H,N
+28,5,Wax,0.8536,Alpha 5,Feeding,0,S,H,N
+28,6,Mband,0.5511,Shark Watch,Passing,3016.347,S,M,N
+28,6,Mband,1.7936,unknown,Passing,6753.453,S,L,N
+28,6,Mband,2.9133,Curl,Feeding,0,S,H,N
+28,6,Mband,3.2736,Curl,Passing,2869.007,S,L,N
+28,6,Mband,3.623,Shark Watch,Passing,1498.754,D,M,N
+28,6,Mband,3.8478,Shark Watch,Feeding,0,S,H,N
+28,6,Mband,3.8478,Alpha 5,Passing,NA,S,L,N
+28,6,Mband,3.918,Shark Watch,Feeding,0,S,H,N
+28,6,Mband,4.0708,Alpha 5,Feeding,0,S,H,N
+28,6,Mband,4.1861,Alpha 5,Feeding,0,S,H,N
+29,1,Control,1.2967,unknown,Passing,NA,D,L,N
+29,1,Control,1.885,Shark Watch,Feeding,0,S,H,N
+29,1,Control,2.1503,Shark Watch,Feeding,0,S,H,N
+29,1,Control,3.3836,Alpha 5,Feeding,0,S,H,N
+29,2,Wax,0.5008,Alpha 5,Feeding,0,S,H,N
+29,3,Mband,1.0478,unknown,Passing,3241.496,D,M,N
+29,3,Mband,1.2911,Alpha 5,Passing,2709.575,S,M,N
+29,3,Mband,1.5719,unknown,Feeding,0,S,H,N
+29,3,Mband,1.8086,unknown,Passing,2845.654,S,M,N
+29,3,Mband,1.9383,Alpha 5,Passing,3004.964,D,M,N
+29,3,Mband,2.2947,Holepunch,Passing,2059.721,D,M,N
+29,3,Mband,2.9294,Holepunch,Feeding,0,S,H,N
+29,4,Rpela,0.3736,unknown,Passing,1794.352,D,L,N
+29,4,Rpela,0.4553,unknown,Passing,2165.981,D,M,N
+29,4,Rpela,0.7989,Holepunch,Passing,3277.005,S,M,N
+29,4,Rpela,0.7989,unknown,Passing,3277.005,S,L,N
+29,4,Rpela,1.3164,unknown,Passing,5637.584,S,L,N
+29,4,Rpela,1.5775,Shark Watch,Feeding,0,S,H,N
+29,5,Mleash,1.1811,Holepunch,Feeding,0,S,H,N
+30,1,Mband,0.0678,Shark Watch,Passing,NA,S,H,N
+30,1,Mband,0.9022,Holepunch,Feeding,0,S,H,N
+30,2,Control,0.475,Shark Watch,Passing,1666.179,S,H,N
+30,2,Control,1.4694,Shark Watch,Passing,1541.194,S,H,N
+30,2,Control,1.6342,Shark Watch,Feeding,0,S,H,N
+30,4,Wax,0.5333,Jumpman,Passing,1354.635,D,H,N
+30,4,Wax,1.8933,Jumpman,Passing,2550.13,S,M,N
+30,4,Wax,2.1178,unknown,Passing,1830.831,S,H,N
+30,4,Wax,3.1494,unknown,Passing,3270.939,S,H,N
+30,4,Wax,3.4528,Holepunch,Passing,1115.918,S,H,N
+30,4,Wax,3.638,unknown,Passing,819.213,S,H,N
+30,4,Wax,4.0747,Jumpman,Passing,2340.881,S,H,N
+30,4,Wax,4.3969,unknown,Passing,2653.809,S,H,N
+30,4,Wax,4.7344,Jumpman,Passing,1991.602,S,M,N
+30,4,Wax,5.0711,unknown,Passing,1841.519,S,M,N
+30,4,Wax,5.1678,unknown,Passing,NA,D,L,N
+30,4,Wax,5.7208,Shark Watch,Passing,NA,S,M,N
+30,4,Wax,5.8375,Shark Watch,Passing,2716.732,S,M,N
+30,4,Wax,5.9553,Shark Watch,Feeding,0,S,H,N
+30,5,Rpela,0.1417,unknown,Passing,NA,S,L,N
+30,5,Rpela,0.3056,unknown,Passing,1203.679,D,H,N
+30,5,Rpela,0.6883,unknown,Passing,1650.5,D,M,N
+30,5,Rpela,2.5261,unknown,Passing,NA,D,L,N
+30,5,Rpela,2.9678,Alpha 5,Passing,1584.128,S,H,N
+30,5,Rpela,3.0844,Alpha 5,Feeding,0,S,H,N
+30,5,Rpela,3.1475,Alpha 5,Feeding,0,S,H,N
+30,6,Mleash,0.2939,Alpha 5,Passing,NA,S,M,N
+30,6,Mleash,0.4472,Alpha 5,Passing,419.493,S,H,N
+30,6,Mleash,0.4911,Alpha 5,Feeding,0,S,H,N
+30,6,Mleash,3.2183,Shark Watch,Passing,503.987,V,H,N
+30,6,Mleash,3.4319,Shark Watch,Feeding,0,S,H,N
+30,6,Mleash,3.5792,Shark Watch,Feeding,0,S,H,N
+30,6,Mleash,3.9889,Shark Watch,Feeding,0,S,H,N
+31,1,Rpela,3.2981,Alpha 5,Passing,2530.458,D,L,N
+31,1,Rpela,3.3483,Alpha 5,Passing,1226.46,S,M,N
+31,1,Rpela,3.4472,Alpha 5,Passing,747.662,S,H,N
+31,1,Rpela,3.5678,Alpha 5,Passing,770.494,S,H,N
+31,1,Rpela,3.8361,Alpha 5,Feeding,0,S,H,Y
+31,1,Rpela,3.9961,Alpha 5,Passing,487.837,S,H,N
+31,1,Rpela,4.2422,Alpha 5,Feeding,0,S,H,N
+31,1,Rpela,4.582,Alpha 5,Feeding,0,S,H,N
+31,1,Rpela,4.777,Alpha 5,Passing,804.396,S,M,N
+31,1,Rpela,4.9595,Alpha 5,Feeding,0,S,H,N
+31,1,Rpela,5.492,Alpha 5,Passing,2252.061,S,M,N
+31,1,Rpela,5.9689,Alpha 5,Passing,573.474,S,H,N
+31,1,Rpela,6.1317,Alpha 5,Feeding,0,S,H,N
+31,2,Wax,1.9861,Alpha 5,Passing,1275.716,S,M,N
+31,2,Wax,2.1844,Alpha 5,Passing,NA,S,M,N
+31,2,Wax,3.2486,Alpha 5,Passing,2489.525,S,M,N
+31,2,Wax,3.7097,Alpha 5,Passing,3992.604,S,M,N
+31,2,Wax,4.0128,Alpha 5,Passing,4365.803,S,M,N
+31,2,Wax,4.5803,Alpha 5,Passing,1721.464,S,M,N
+31,2,Wax,4.8728,Alpha 5,Passing,602.709,S,H,N
+31,2,Wax,4.9683,Alpha 5,Feeding,0,S,H,N
+31,3,Mband,6.1295,Aquaman,Passing,1180.711,V,M,N
+31,3,Mband,6.4358,Aquaman,Passing,1869.359,S,M,N
+31,3,Mband,6.5531,Aquaman,Passing,2867.029,S,M,N
+31,3,Mband,6.6764,Aquaman,Passing,1952.994,S,M,N
+31,3,Mband,7.5061,Aquaman,Passing,2202.517,V,M,N
+31,3,Mband,7.592,Aquaman,Passing,2496.362,S,M,N
+31,3,Mband,11.1395,Jesse,Passing,957.717,V,M,N
+31,3,Mband,11.3753,Jesse,Feeding,0,S,H,N
+31,3,Mband,11.9809,Jesse,Feeding,0,S,H,N
+31,3,Mband,12.1322,Jesse,Passing,447.755,S,H,Y
+31,3,Mband,12.3792,Jesse,Passing,659.708,V,H,N
+31,3,Mband,12.7203,Jesse,Feeding,0,S,H,N
+31,3,Mband,15.1517,Aquaman,Passing,2611.884,S,M,N
+31,4,Mleash,3.3583,Aquaman,Passing,1606.756,D,L,N
+31,4,Mleash,6.0622,Jesse,Passing,1611.035,S,M,N
+31,4,Mleash,6.2472,Jesse,Passing,1055.532,S,M,N
+31,4,Mleash,6.3183,Jesse,Feeding,0,S,H,N
+31,5,SS,3.9783,Jumpman,Passing,2958.589,S,M,N
+31,5,SS,4.4167,Backscratch,Passing,2614.339,D,M,Y
+31,5,SS,4.572,Backscratch,Passing,2046.909,D,M,Y
+31,5,SS,5.0803,Backscratch,Passing,1943.237,D,M,Y
+31,5,SS,5.2433,Backscratch,Passing,2396.699,D,M,Y
+31,5,SS,5.7717,Backscratch,Passing,3542.934,D,L,N
+31,5,SS,5.8989,Backscratch,Passing,2492.443,D,M,N
+31,5,SS,6.3347,Backscratch,Passing,3244.105,D,M,N
+31,5,SS,6.5556,Backscratch,Passing,2957.134,D,M,N
+31,5,SS,8.4397,Backscratch,Passing,1895.947,V,M,N
+31,5,SS,9.0961,Backscratch,Passing,3965.166,D,M,N
+31,5,SS,11.7689,Backscratch,Passing,2019.874,V,M,Y
+31,5,SS,12.1689,Backscratch,Passing,2631.526,D,M,Y
+31,6,Control,0.4219,Backscratch,Passing,1796.882,D,M,N
+31,6,Control,2.5558,Backscratch,Passing,4749.815,D,L,N
+31,6,Control,4,Backscratch,Passing,2647.185,D,L,N
+31,6,Control,4.507,Backscratch,Passing,1953.691,D,M,N
+31,6,Control,6.9872,Backscratch,Feeding,0,S,H,N
+32,1,SS,0.5253,Undercoat,Passing,2810.263,S,M,N
+32,1,SS,7.2042,Undercoat,Passing,4661.323,D,L,N
+32,1,SS,8.7036,Jack,Passing,3214.105,D,M,Y
+32,2,Wax,1.4175,Backscratch,Passing,1644.604,D,M,N
+32,2,Wax,1.7269,Backscratch,Feeding,0,S,H,N
+32,3,Rpela,0.3697,Jack,Passing,2770.732,D,M,N
+32,3,Rpela,0.7106,Jack,Passing,3630.844,D,M,Y
+32,3,Rpela,3.547,Manta,Passing,778.66,S,H,Y
+32,3,Rpela,4.3625,Manta,Feeding,0,S,H,Y
+32,3,Rpela,5.5058,Curl,Passing,1914.204,S,H,N
+32,3,Rpela,5.7106,Curl,Passing,999.489,S,H,Y
+32,3,Rpela,5.7145,Curl,Passing,1132.377,S,H,N
+32,3,Rpela,5.8358,Curl,Passing,342.087,S,H,Y
+32,3,Rpela,6.0592,Curl,Feeding,0,S,H,Y
+32,4,Mband,0.6847,Curl,Feeding,0,S,H,N
+32,5,Control,0.5444,Curl,Passing,4348.747,S,M,N
+32,5,Control,1.4458,Jack,Passing,3546.999,S,M,N
+32,5,Control,6.4922,Curl,Passing,2522.448,S,M,N
+32,5,Control,6.8022,Curl,Feeding,0,S,H,N
+32,5,Control,7.1586,Curl,Feeding,0,S,H,N
+32,5,Control,8.5022,Curl,Passing,1152.494,S,H,Y
+32,5,Control,8.9167,Curl,Passing,1320.239,S,M,N
+32,5,Control,9.0789,Curl,Feeding,0,S,H,N
+32,6,Mleash,0.7144,Curl,Feeding,0,S,H,N
+32,6,Mleash,1.4011,Curl,Passing,3851.256,S,L,N
+32,6,Mleash,1.9589,Curl,Feeding,0,S,H,N
+33,1,Rpela,1.1953,Gilbert,Passing,1495.45,V,M,N
+33,1,Rpela,2.9561,Gilbert,Feeding,0,V,H,N
+33,1,Rpela,3.1453,Gilbert,Passing,1909.588,V,H,N
+33,1,Rpela,3.3972,Gilbert,Passing,2113.65,V,H,Y
+33,1,Rpela,5.0433,Gilbert,Passing,2039.752,D,M,N
+33,1,Rpela,5.3122,Gilbert,Passing,1034.137,S,M,N
+33,1,Rpela,5.9325,Gilbert,Passing,764.458,S,M,N
+33,1,Rpela,8.5697,Gilbert,Feeding,0,S,H,N
+33,2,Mleash,0.8319,Gilbert,Passing,2796.108,D,M,N
+33,2,Mleash,3.1997,Gilbert,Passing,1559.099,S,M,N
+33,2,Mleash,3.7361,Gilbert,Passing,672.635,S,M,N
+33,2,Mleash,4.0161,Gilbert,Feeding,0,S,H,N
+33,3,Wax,0.8514,Jack,Passing,852.085,S,H,N
+33,3,Wax,1.1444,Jack,Passing,750.257,S,H,N
+33,3,Wax,1.4761,Jack,Passing,2008.886,D,M,N
+33,3,Wax,1.7556,Jack,Passing,1083.216,S,M,N
+33,3,Wax,2.3578,Jack,Passing,802.153,S,H,N
+33,3,Wax,3.1292,Jack,Passing,692.52,S,H,N
+33,3,Wax,5.3047,Gilbert,Feeding,0,V,H,N
+33,3,Wax,5.7925,Gilbert,Feeding,0,S,H,N
+33,4,SS,0.5075,Jack,Passing,4656.4,S,L,N
+33,4,SS,2.275,Gilbert,Passing,2763.862,D,M,N
+33,4,SS,2.7778,Jack,Passing,3747.413,S,M,N
+33,4,SS,3.7161,Jack,Passing,1590.631,S,M,Y
+33,4,SS,3.9553,Jack,Passing,2256.08,S,M,N
+33,4,SS,4.4836,Jack,Passing,3278.092,D,L,N
+33,4,SS,5.8486,Jack,Passing,3042.773,D,M,N
+33,4,SS,6.1183,Jack,Passing,3548.317,S,M,Y
+33,4,SS,8.5325,Camo,Passing,3515.419,D,L,N
+33,4,SS,10.8217,Jack,Passing,3080.184,S,M,Y
+33,4,SS,11.0956,Jack,Passing,3823.29,D,L,N
+33,4,SS,11.5142,Jack,Passing,7445.262,S,M,N
+33,4,SS,11.6528,Jack,Passing,2830.968,S,M,N
+33,4,SS,11.8628,Jack,Passing,3814.114,S,M,N
+33,4,SS,11.9678,Jack,Passing,4835.611,S,M,N
+33,4,SS,12.3053,Jack,Passing,3580.957,S,M,N
+33,4,SS,12.7328,unknown,Passing,2401.239,S,M,N
+33,4,SS,14.2245,Gilbert,Passing,3843.306,D,L,N
+33,4,SS,14.6431,Jack,Passing,2360.646,D,M,N
+33,4,SS,14.8073,Jack,Passing,4702.952,D,L,N
+33,5,Mband,4.0047,Gilbert,Passing,3888.583,D,L,N
+33,5,Mband,6.3725,Jack,Passing,2818.175,D,L,N
+33,5,Mband,9.82,Gilbert,Passing,1395.485,D,M,N
+33,5,Mband,10.2114,Gilbert,Passing,1598.496,S,M,N
+33,5,Mband,10.5756,Gilbert,Passing,2787.036,S,M,N
+33,5,Mband,10.9614,Gilbert,Passing,1758.067,S,M,N
+33,5,Mband,11.3709,Gilbert,Passing,2856.675,D,L,N
+33,5,Mband,12.0581,Gilbert,Passing,1563.108,V,M,N
+33,5,Mband,12.8925,Gilbert,Passing,1735.204,V,M,N
+33,5,Mband,13.3867,Gilbert,Passing,2093.999,S,M,N
+33,5,Mband,13.6442,Gilbert,Passing,831.266,S,M,N
+33,5,Mband,13.9248,Gilbert,Passing,857.93,S,M,N
+33,5,Mband,14.2898,Gilbert,Passing,1792.348,S,M,N
+33,5,Mband,14.6456,Gilbert,Passing,1521.05,S,M,N
+33,5,Mband,15.1975,Gilbert,Passing,1685.154,V,M,N
+33,6,Control,0.8631,Curl,Feeding,0,S,H,N
+33,6,Control,1.0156,Curl,Passing,719.861,S,H,N
+33,6,Control,1.3425,Curl,Feeding,0,S,H,N
+34,1,Mleash,0.2608,Jack,Passing,1493.748,S,M,N
+34,1,Mleash,0.5986,Curl,Feeding,0,S,H,N
+34,1,Mleash,0.9319,Jack,Passing,3577.362,S,L,N
+34,1,Mleash,1.6778,Curl,Feeding,0,S,H,Y
+34,1,Mleash,2.3478,Curl,Feeding,0,S,H,N
+34,2,Control,0.6742,Jack,Passing,5089.789,D,L,N
+34,2,Control,3.3214,Gilbert,Passing,2633.607,V,M,N
+34,2,Control,3.9808,Gilbert,Feeding,0,S,H,N
+34,2,Control,5.1278,Gilbert,Passing,3750.871,D,L,N
+34,2,Control,6.015,Gilbert,Passing,904.454,S,M,N
+34,2,Control,7.9981,Jack,Passing,NA,V,H,N
+34,2,Control,8.4025,Jack,Passing,2014.519,D,M,N
+34,2,Control,10.8809,Undercoat,Passing,4686.258,D,L,N
+34,2,Control,11.0192,Curl,Passing,2852.749,D,M,N
+34,2,Control,11.6528,Undercoat,Passing,6459.418,D,M,N
+34,2,Control,12.3436,Undercoat,Passing,3218.158,D,M,N
+34,2,Control,12.9889,Gilbert,Passing,1684.119,V,M,N
+34,2,Control,13.3092,Gilbert,Feeding,0,S,H,N
+34,3,Wax,0.9989,Jack,Passing,2354.661,D,M,N
+34,3,Wax,1.1711,Jack,Passing,1324.899,S,M,N
+34,3,Wax,1.6206,Gilbert,Passing,1072.524,S,H,N
+34,3,Wax,1.9236,Jack,Passing,1796.281,D,M,N
+34,3,Wax,3.2928,Gilbert,Passing,4002.68,D,M,N
+34,3,Wax,3.5133,Gilbert,Feeding,0,S,H,N
+34,3,Wax,4.2467,Gilbert,Passing,1731.892,D,M,N
+34,3,Wax,5.1411,Jack,Passing,3622.55,D,M,N
+34,3,Wax,5.3095,Jack,Passing,848.162,S,M,Y
+34,3,Wax,6.2906,Curl,Passing,3045.391,D,L,N
+34,3,Wax,10.3095,Jack,Passing,2016.253,S,H,N
+34,3,Wax,10.8386,Jack,Passing,3449.471,S,M,N
+34,3,Wax,13.0939,Gilbert,Passing,2123.234,D,M,N
+34,3,Wax,13.7639,Gilbert,Feeding,0,S,H,N
+34,4,Mband,3.1397,Gilbert,Feeding,0,V,H,N
+34,4,Mband,3.8478,Gilbert,Feeding,0,V,H,N
+34,5,Rpela,2.1664,Gilbert,Feeding,0,S,H,N
+34,6,SS,1.9722,Gilbert,Passing,3291.225,D,M,N
+34,6,SS,5.2492,Gilbert,Feeding,0,V,H,N
+35,1,SS,0.5717,unknown,Passing,5793.856,D,L,N
+35,1,SS,0.7603,Gilbert,Passing,1520.274,S,M,N
+35,1,SS,1.9614,Gilbert,Passing,1875.547,V,M,N
+35,1,SS,2.1783,Gilbert,Passing,881.464,S,M,N
+35,1,SS,2.3483,Gilbert,Feeding,0,S,H,Y
+35,1,SS,3.45,Gilbert,Passing,1387.551,D,M,N
+35,1,SS,3.6278,Jack,Passing,4725.131,D,M,N
+35,1,SS,4.0314,Gilbert,Passing,3026.016,D,L,N
+35,1,SS,4.0961,Undercoat,Passing,4318.728,D,L,N
+35,1,SS,4.7967,Gilbert,Passing,2153.456,D,M,N
+35,1,SS,5.3792,Curl,Passing,2773.952,S,H,Y
+35,1,SS,5.5592,Curl,Passing,3244.152,S,H,Y
+35,1,SS,6.0017,Curl,Passing,3068.524,S,H,N
+35,1,SS,6.4108,Curl,Passing,3669.51,S,M,N
+35,1,SS,6.6864,Curl,Passing,5132.509,D,L,N
+35,1,SS,8.3625,Curl,Passing,5465.913,S,L,N
+35,1,SS,8.5736,Jack,Passing,3276.534,D,M,N
+35,1,SS,9.0342,Jack,Passing,3042.124,D,M,N
+35,1,SS,9.6884,Jack,Passing,4400.819,D,M,N
+35,1,SS,11.0847,Undercoat,Passing,4440.823,D,L,N
+35,1,SS,13.4956,Gilbert,Passing,1694.871,D,M,N
+35,1,SS,13.7197,Gilbert,Feeding,0,S,H,Y
+35,1,SS,14.787,Gilbert,Passing,3101.781,D,M,N
+35,2,Mband,0.8706,Undercoat,Passing,NA,S,L,N
+35,2,Mband,1.0592,Undercoat,Passing,1920.163,S,M,N
+35,2,Mband,1.2264,Undercoat,Passing,1718.03,S,H,N
+35,2,Mband,1.4867,Undercoat,Passing,923.699,S,H,N
+35,2,Mband,2.0961,Undercoat,Passing,624.645,S,H,N
+35,2,Mband,2.1878,Undercoat,Passing,1211.786,S,H,N
+35,2,Mband,5.0703,Jack,Passing,2183.652,S,M,N
+35,2,Mband,6.0261,Jack,Passing,2012.34,D,M,N
+35,2,Mband,6.9,Jack,Passing,2316.551,D,M,N
+35,2,Mband,7.3889,Jack,Passing,2324.354,D,H,N
+35,2,Mband,7.6033,Jack,Passing,2403.717,V,M,N
+35,2,Mband,7.8906,Jack,Passing,1621.905,S,H,N
+35,2,Mband,8.2872,Jack,Passing,716.768,D,M,N
+35,2,Mband,9.1886,Jack,Passing,792.594,S,H,Y
+35,2,Mband,9.5614,Jack,Passing,1304.657,D,M,N
+35,2,Mband,12.9611,Jack,Passing,3064.189,V,M,N
+35,2,Mband,13.835,Jack,Passing,2104.307,D,M,N
+35,2,Mband,13.9498,Jack,Passing,1997.796,D,M,N
+35,2,Mband,14.5556,Jack,Passing,2474.881,D,M,N
+35,3,Wax,10.4825,Jack,Passing,2112.95,S,M,N
+35,3,Wax,11.1392,Jack,Passing,4079.669,S,L,N
+35,3,Wax,11.6903,Jack,Passing,3151.247,D,L,N
+35,3,Wax,12.2953,Jack,Passing,1404.842,S,H,N
+35,3,Wax,12.9445,Jack,Passing,2899.358,D,M,N
+35,3,Wax,13.0828,Jack,Passing,1204.68,S,H,Y
+35,3,Wax,13.6231,Jack,Passing,NA,D,L,N
+35,3,Wax,14.2498,Jack,Passing,2060.196,D,M,N
+35,3,Wax,14.3606,Jack,Passing,1111.837,S,H,N
+35,3,Wax,15.0139,Jack,Feeding,0,S,H,N
+35,4,Mleash,0.2811,Jack,Passing,NA,S,M,N
+35,4,Mleash,1.9397,Jack,Passing,1247.692,S,H,N
+35,4,Mleash,2.8772,Jack,Passing,1984.494,D,M,N
+35,4,Mleash,3,Jack,Feeding,0,S,H,N
+35,5,Rpela,1.8653,unknown,Passing,NA,D,L,N
+35,5,Rpela,2.6261,Jack,Passing,1209.051,S,H,N
+35,5,Rpela,3.2022,Jack,Passing,988.326,S,H,N
+35,5,Rpela,4.1558,Jack,Passing,1868.346,S,H,N
+35,5,Rpela,4.5597,Jack,Passing,1109.574,S,H,N
+35,5,Rpela,4.6772,Jack,Passing,797.751,S,H,Y
+35,5,Rpela,6.9472,Jack,Passing,812.173,S,H,N
+35,5,Rpela,7.0325,Jack,Passing,732.474,S,H,N
+35,5,Rpela,7.2367,Jack,Feeding,0,S,H,N
+35,6,Control,0.3697,Jack,Passing,2493.84,S,M,N
+35,6,Control,2.9258,Jack,Passing,1855.87,S,M,N
+35,6,Control,2.9553,Jack,Passing,1067.728,S,M,Y
+35,6,Control,4.2214,Jack,Passing,1309.014,S,H,N
+35,6,Control,5.0661,Jack,Feeding,0,S,H,N
+36,1,Rpela,3,Jack,Passing,500,S,H,N
+36,1,Rpela,3.2,Jack,Feeding,0,S,H,N
+36,2,Control,0.6883,Jack,Passing,1956.79,D,M,N
+36,2,Control,1.2875,Jack,Passing,2060.841,V,M,N
+36,2,Control,2.2347,Jack,Passing,1228.051,S,M,N
+36,2,Control,3.1911,Jack,Passing,1762.691,S,M,N
+36,2,Control,3.2695,Jack,Passing,642.513,S,H,N
+36,2,Control,3.4636,Jack,Feeding,0,S,H,N
+36,3,SS,1.8411,Jack,Passing,NA,S,M,N
+36,3,SS,2.4731,Jack,Passing,1917.56,S,M,N
+36,3,SS,3.1283,Jack,Passing,3109.077,D,M,Y
+36,3,SS,4.1925,Jack,Passing,5433.1,D,L,N
+36,3,SS,4.5197,Jack,Passing,4181.396,D,L,N
+36,3,SS,8.3322,Dom,Passing,3550.346,D,M,Y
+36,3,SS,8.5347,Dom,Passing,2971.298,D,M,N
+36,3,SS,13.7339,Jack,Passing,2297.025,S,M,N
+36,3,SS,13.9448,Jack,Passing,3133.859,S,M,N
+36,3,SS,14.1236,Jack,Passing,2099.964,S,M,Y
+36,3,SS,14.4509,Jack,Passing,2390.162,S,M,N
+36,3,SS,16.2886,Jack,Passing,2618.611,D,M,N
+36,3,SS,16.4911,Jack,Passing,2316.191,S,M,N
+36,4,Wax,0.4586,Jack,Passing,1467.293,S,H,N
+36,4,Wax,1.5731,Eyebrows,Passing,2160.181,D,M,N
+36,4,Wax,2.4139,Eyebrows,Passing,918.693,S,H,N
+36,4,Wax,3.4472,Jack,Feeding,0,S,H,N
+36,5,Mleash,0.2453,Jack,Passing,3146.902,S,M,N
+36,5,Mleash,1.0967,Jack,Passing,1755.398,S,M,N
+36,5,Mleash,1.1853,Jack,Feeding,0,S,H,N
+36,6,Mband,1.7992,Jack,Passing,880.606,S,H,N
+36,6,Mband,1.8792,Jack,Feeding,0,S,H,N
+37,1,SS,0.5069,Jack,Passing,1123.711,S,M,N
+37,1,SS,1.265,Jack,Passing,3048.068,S,M,N
+37,1,SS,1.6831,Jack,Passing,NA,S,M,N
+37,1,SS,2.1219,Jack,Passing,2686.022,S,M,N
+37,1,SS,2.3167,Jack,Passing,NA,S,M,N
+37,1,SS,2.8136,Jack,Passing,2899.024,S,M,N
+37,1,SS,2.9861,Jack,Passing,2547.253,D,M,N
+37,1,SS,3.4495,Jack,Passing,2338.71,D,M,N
+37,1,SS,3.6517,Jack,Passing,3351.589,S,H,N
+37,1,SS,4.0958,Jack,Passing,2985.533,S,M,N
+37,1,SS,4.6436,Jack,Passing,2908.148,S,M,N
+37,1,SS,5.1047,Jack,Passing,3538.173,S,M,N
+37,1,SS,5.7189,Jack,Passing,2896.459,S,M,N
+37,1,SS,6.7147,Jack,Passing,2419.788,S,M,N
+37,1,SS,6.8181,Jack,Passing,1805.818,S,H,N
+37,1,SS,6.9645,Jack,Passing,1961.858,S,H,N
+37,1,SS,7.7339,Jack,Passing,2435.897,S,M,N
+37,1,SS,7.895,Jack,Passing,2604.523,S,M,N
+37,1,SS,8.3767,Jack,Passing,2869.181,S,M,N
+37,1,SS,8.4811,Jack,Passing,2028.651,S,M,N
+37,1,SS,9.26,Jack,Passing,2309.56,S,M,N
+37,1,SS,9.715,Jack,Passing,1278.108,S,M,N
+37,1,SS,9.9081,Jack,Passing,1962.546,S,H,Y
+37,1,SS,10.1281,Jack,Passing,1897.393,S,M,Y
+37,1,SS,10.327,Jack,Passing,1953.921,S,M,N
+37,1,SS,10.5009,Jack,Feeding,0,S,H,N
+37,2,Mband,0.4386,Jack,Passing,2955.758,D,L,N
+37,2,Mband,0.7731,Jack,Passing,2688.278,S,M,N
+37,2,Mband,1.1281,Jack,Feeding,0,S,H,N
+37,3,Mleash,1.8572,Jack,Passing,2413.352,D,M,N
+37,3,Mleash,2.0867,Jack,Passing,592.499,V,H,N
+37,3,Mleash,2.5953,Jack,Feeding,0,S,H,N
+37,4,Wax,0.6353,Camo,Passing,481.518,S,H,Y
+37,4,Wax,1.0108,Camo,Passing,2734.19,S,M,N
+37,4,Wax,1.7703,Camo,Passing,356.739,S,H,N
+37,4,Wax,1.8803,Camo,Feeding,0,S,H,N
+37,5,Rpela,1.9797,Jack,Feeding,0,S,H,N
+37,6,Control,0.6364,Jack,Feeding,0,S,H,N
+38,1,Control,3.3139,Jack,Passing,3795.72,D,L,N
+38,1,Control,3.5611,Jack,Feeding,0,S,H,N
+38,1,Control,14.0631,unknown,Passing,2795.233,D,L,N
+38,2,Mband,0.5758,Camo,Passing,936.143,S,H,N
+38,2,Mband,0.8469,Jack,Feeding,0,S,H,N
+38,3,Rpela,0.6881,Jack,Passing,1941.74,S,M,N
+38,3,Rpela,1.9978,Jack,Passing,2181.249,D,L,N
+38,3,Rpela,2.2794,Camo,Passing,2576.079,D,L,N
+38,3,Rpela,3.2897,Camo,Passing,1128.117,S,M,N
+38,3,Rpela,3.8208,Camo,Feeding,0,S,H,N
+38,4,SS,1.4503,Jack,Passing,3369.795,S,M,N
+38,4,SS,4.9789,Jack,Passing,2935.531,S,M,N
+38,4,SS,5.8345,Jack,Passing,2639.728,D,M,N
+38,4,SS,6.0461,Jack,Passing,4148.407,D,L,N
+38,4,SS,12.3878,unknown,Passing,NA,D,L,N
+38,5,Wax,5.6272,Jack,Passing,1457.032,S,H,N
+38,5,Wax,5.7553,Jack,Passing,1657.316,D,L,Y
+38,5,Wax,6.4406,Jack,Passing,3803.353,S,M,N
+38,5,Wax,9.0156,Jack,Feeding,0,S,H,N
+38,6,Mleash,1.4119,Dom,Passing,2842.221,D,L,N
+38,6,Mleash,3.3381,Dom,Passing,NA,D,L,N
+38,6,Mleash,3.7086,Dom,Feeding,0,S,H,N
+39,1,SS,2.1256,unknown,Passing,NA,S,M,N
+39,1,SS,8.6464,Camo,Passing,4601.057,D,L,N
+39,1,SS,9.3128,Camo,Passing,2206.853,S,M,Y
+39,1,SS,10.4981,Camo,Passing,3868.827,S,L,N
+39,1,SS,10.6756,Camo,Passing,3786.606,S,L,N
+39,1,SS,10.8928,Camo,Passing,2104.89,S,L,N
+39,1,SS,12.2856,Camo,Passing,3443.014,S,L,N
+39,1,SS,12.6284,Camo,Passing,4628.402,S,L,N
+39,2,Wax,0.7425,Dom,Passing,NA,S,M,Y
+39,2,Wax,0.8731,Dom,Passing,2278.473,S,M,N
+39,2,Wax,1.4739,Dom,Passing,1787.32,S,M,N
+39,2,Wax,1.8567,Dom,Passing,1214.179,S,M,N
+39,2,Wax,2.0397,Dom,Passing,2402.698,D,L,N
+39,2,Wax,2.2547,Dom,Passing,1778.736,D,M,N
+39,2,Wax,2.5933,Dom,Feeding,0,S,H,N
+39,3,Control,1.2306,Dom,Feeding,0,S,H,N
+39,3,Control,8.8828,Backscratch,Passing,3339.884,S,L,N
+39,3,Control,9.4022,Backscratch,Passing,3073.379,S,M,N
+39,4,Mband,5.0517,Horseshoe,Passing,3088.542,D,L,N
+39,4,Mband,6.005,Horseshoe,Passing,8390.514,S,L,N
+39,4,Mband,8.1636,Horseshoe,Passing,3375.409,D,L,N
+39,4,Mband,8.5067,Horseshoe,Passing,1267.827,S,M,N
+39,4,Mband,9.1122,Horseshoe,Passing,1582.229,S,M,N
+39,4,Mband,9.5081,Horseshoe,Passing,2068.042,S,L,N
+39,4,Mband,12.9225,Eyebrows,Passing,3394.255,D,L,N
+39,4,Mband,13.2942,Eyebrows,Passing,2708.811,S,M,N
+39,4,Mband,13.657,Eyebrows,Passing,3015.824,S,L,N
+39,4,Mband,14.0261,Eyebrows,Passing,2827.315,S,L,N
+39,5,Rpela,0.3922,Shark Watch,Passing,1927.93,S,L,N
+39,5,Rpela,0.5572,Shark Watch,Passing,491.27,S,H,Y
+39,5,Rpela,0.7511,Shark Watch,Passing,1300.569,S,H,N
+39,5,Rpela,0.9306,Shark Watch,Passing,1292.087,S,M,N
+39,5,Rpela,1.1336,Shark Watch,Passing,656.104,S,H,Y
+39,5,Rpela,1.3078,Shark Watch,Passing,969.581,S,H,N
+39,5,Rpela,1.5489,Shark Watch,Passing,734.889,S,H,Y
+39,5,Rpela,1.7544,Shark Watch,Passing,944.891,S,M,N
+39,5,Rpela,2.5222,Shark Watch,Passing,558.274,S,H,N
+39,5,Rpela,2.7661,Shark Watch,Passing,1262.852,S,L,N
+39,5,Rpela,4.32,Shark Watch,Passing,1469.102,S,M,N
+39,5,Rpela,4.5575,Shark Watch,Passing,660.922,S,M,N
+39,5,Rpela,4.6647,Shark Watch,Passing,364.59,S,H,N
+39,5,Rpela,4.83,Shark Watch,Passing,417.093,S,M,N
+39,5,Rpela,5.0581,Shark Watch,Passing,792.43,S,M,N
+39,5,Rpela,5.5803,Shark Watch,Passing,1205.589,S,L,N
+39,5,Rpela,5.8072,Shark Watch,Passing,1056.058,D,H,N
+39,5,Rpela,7.4333,Shark Watch,Passing,1455.628,D,L,N
+39,5,Rpela,7.6953,Shark Watch,Passing,1133.951,S,M,N
+39,5,Rpela,8.0225,Shark Watch,Passing,894.914,S,M,N
+39,5,Rpela,8.2995,Shark Watch,Passing,2140.518,D,L,N
+39,5,Rpela,9.0347,Shark Watch,Passing,1246.147,V,L,N
+39,5,Rpela,9.3278,Shark Watch,Passing,426.539,D,M,N
+39,5,Rpela,9.4953,Shark Watch,Feeding,0,S,H,N
+39,5,Rpela,9.6086,Shark Watch,Passing,963.314,S,M,N
+39,5,Rpela,9.8831,Shark Watch,Passing,538.471,S,H,N
+39,5,Rpela,11.6703,Shark Watch,Passing,1135.211,D,L,N
+39,5,Rpela,11.9586,Shark Watch,Passing,740.185,S,M,N
+39,5,Rpela,12.4175,Shark Watch,Passing,1683.043,S,M,N
+39,5,Rpela,12.497,Shark Watch,Passing,488.773,S,H,N
+39,5,Rpela,13.035,Shark Watch,Passing,932.529,D,M,N
+39,5,Rpela,13.5484,Shark Watch,Passing,710.45,V,M,N
+39,5,Rpela,13.8381,Shark Watch,Passing,1028.287,S,M,N
+39,6,Mleash,6.9411,Shark Watch,Passing,685.616,S,H,N
+39,6,Mleash,7.0967,Shark Watch,Feeding,0,S,H,N
+39,6,Mleash,7.4025,Shark Watch,Passing,429.967,S,H,N
+39,6,Mleash,7.6581,Shark Watch,Feeding,0,S,H,N
+40,1,Mleash,0.3492,Shark Watch,Passing,759.954,S,H,Y
+40,1,Mleash,0.8453,Shark Watch,Passing,2368.955,D,L,N
+40,1,Mleash,2.1842,Shark Watch,Passing,834.444,S,H,Y
+40,1,Mleash,3.032,Shark Watch,Passing,619.576,S,M,N
+40,1,Mleash,3.2789,Shark Watch,Passing,984.306,S,M,N
+40,1,Mleash,3.55,Shark Watch,Passing,1360.316,S,L,N
+40,1,Mleash,3.9008,Shark Watch,Passing,478.487,S,M,N
+40,1,Mleash,4.177,Shark Watch,Passing,1060.644,S,M,N
+40,1,Mleash,4.3545,Shark Watch,Passing,892.723,S,M,N
+40,1,Mleash,4.7922,Shark Watch,Feeding,0,S,H,N
+40,1,Mleash,6.5239,Shark Watch,Passing,810.82,V,M,N
+40,1,Mleash,10.7022,Shark Watch,Passing,1183.35,D,L,N
+40,1,Mleash,10.9992,Shark Watch,Passing,903.985,S,H,N
+40,1,Mleash,11.6236,Shark Watch,Feeding,0,S,H,N
+40,2,SS,0.9586,Shark Watch,Passing,2181.385,S,L,N
+40,2,SS,1.3406,Shark Watch,Passing,NA,S,L,N
+40,2,SS,1.4775,Shark Watch,Passing,1367.586,S,M,N
+40,2,SS,2.39,Shark Watch,Passing,2410.173,S,M,N
+40,2,SS,2.5967,Shark Watch,Passing,2003.053,S,L,N
+40,2,SS,2.8156,Shark Watch,Passing,918.368,S,M,Y
+40,2,SS,3.1917,Shark Watch,Passing,3082.245,D,L,N
+40,2,SS,3.8322,Eyebrows,Passing,2849.562,D,L,N
+40,2,SS,4.0583,Shark Watch,Passing,4026.481,D,L,N
+40,2,SS,4.3814,Backscratch,Passing,4183.342,D,L,N
+40,2,SS,5.5458,Eyebrows,Passing,2833.531,S,M,N
+40,2,SS,6.4664,Eyebrows,Passing,2197.926,S,M,N
+40,2,SS,6.8436,Eyebrows,Passing,2352.892,D,L,N
+40,2,SS,9.6059,Shark Watch,Passing,2406.263,D,L,N
+40,2,SS,13.4278,Backscratch,Passing,1895.089,D,L,Y
+40,2,SS,13.6084,Backscratch,Passing,3539.975,D,L,N
+40,2,SS,14.1836,Backscratch,Passing,NA,D,L,N
+40,3,Wax,2.1744,Backscratch,Passing,1876.602,D,L,N
+40,3,Wax,4.0495,Backscratch,Passing,1062.382,S,M,N
+40,3,Wax,4.47,Backscratch,Feeding,0,S,H,N
+40,4,Control,0.2914,Shark Watch,Passing,NA,S,M,N
+40,4,Control,0.41,Shark Watch,Passing,996.833,S,M,N
+40,4,Control,0.6589,Shark Watch,Feeding,0,S,H,N
+40,5,Rpela,0.5208,Backscratch,Passing,NA,D,L,N
+40,5,Rpela,0.7553,Backscratch,Passing,1609.389,S,M,N
+40,5,Rpela,1.5294,Backscratch,Passing,NA,S,M,N
+40,5,Rpela,1.7608,Backscratch,Passing,1055.292,S,M,N
+40,5,Rpela,2.5342,Backscratch,Passing,2204.007,S,M,N
+40,5,Rpela,2.6294,Shark Watch,Passing,1323.935,S,M,N
+40,5,Rpela,2.8464,Shark Watch,Passing,2522.191,D,L,N
+40,5,Rpela,3.1697,Shark Watch,Passing,896.501,S,M,N
+40,5,Rpela,3.7228,Shark Watch,Passing,995.194,S,M,N
+40,5,Rpela,3.9322,Shark Watch,Passing,452.653,S,M,N
+40,5,Rpela,4.4983,Shark Watch,Passing,646.734,S,M,N
+40,5,Rpela,5.0575,Shark Watch,Passing,1041.72,S,M,N
+40,5,Rpela,5.2661,Shark Watch,Feeding,0,S,H,N
+40,5,Rpela,5.397,Shark Watch,Feeding,0,S,H,N
+40,5,Rpela,5.8947,Manta,Passing,2947.483,S,L,N
+40,5,Rpela,6.0989,Shark Watch,Passing,3649.102,S,L,N
+40,5,Rpela,6.8489,Shark Watch,Passing,2969.191,S,L,N
+40,5,Rpela,7.1206,Shark Watch,Feeding,0,S,H,N
+40,5,Rpela,7.6628,Manta,Passing,2701.05,D,L,N
+40,5,Rpela,8.1578,Shark Watch,Passing,1902.588,S,M,N
+40,5,Rpela,8.7222,Shark Watch,Passing,1106.093,S,M,N
+40,5,Rpela,9.0192,Shark Watch,Feeding,0,S,H,N
+40,5,Rpela,9.27,Shark Watch,Passing,4255.648,D,L,N
+40,5,Rpela,9.9731,Manta,Feeding,0,S,H,Y
+40,6,Mband,4.5647,Manta,Passing,1511.502,S,M,N
+40,6,Mband,4.7695,Manta,Passing,1625.843,S,M,N
+40,6,Mband,5.0497,Manta,Passing,1106.19,S,M,N
+40,6,Mband,5.3386,Manta,Passing,2351.007,S,M,N
+40,6,Mband,5.987,Manta,Passing,1574.195,S,M,N
+40,6,Mband,6.2811,Manta,Passing,3595.594,S,L,N
+40,6,Mband,6.6167,Manta,Passing,6069.537,S,M,N
+40,6,Mband,7.0745,Manta,Passing,2241.773,S,M,N
+40,6,Mband,7.2731,Manta,Passing,2056.191,S,M,N
+40,6,Mband,7.2947,Backscratch,Passing,2233.903,D,L,N
+40,6,Mband,7.5703,Manta,Passing,2511.382,S,M,N
+40,6,Mband,7.5703,Backscratch,Passing,2511.382,D,L,N
+40,6,Mband,7.5703,Manta,Passing,3927.146,S,M,N
+40,6,Mband,7.5703,Backscratch,Passing,3927.146,D,L,N
+40,6,Mband,10.7156,Manta,Passing,1931.921,S,M,N
+40,6,Mband,10.9261,Manta,Passing,4030.916,S,L,N
+40,6,Mband,11.2097,Manta,Passing,1389.278,S,M,N
+40,6,Mband,11.4159,Manta,Feeding,0,S,H,N
+40,6,Mband,13.7289,Manta,Passing,2442.57,S,L,N
+40,6,Mband,13.8617,Manta,Passing,2062.047,S,M,N
+40,6,Mband,14.0553,Manta,Passing,2441.764,S,M,N
+40,6,Mband,14.3717,Manta,Passing,1196.825,S,M,N
+40,6,Mband,15.1186,Manta,Passing,1874.852,S,M,N
+40,6,Mband,15.2525,Manta,Passing,1627.021,S,M,N
+41,1,Mleash,0.8561,Eyebrows,Passing,2142.554,D,M,N
+41,1,Mleash,1.3794,Eyebrows,Passing,3331.684,S,M,N
+41,1,Mleash,2.1453,Eyebrows,Passing,1645.388,D,M,N
+41,1,Mleash,5.4033,Eyebrows,Passing,2677.026,S,M,N
+41,1,Mleash,14.2736,Manta,Passing,2325.984,V,L,N
+41,1,Mleash,14.5486,Manta,Passing,1558.692,S,M,N
+41,1,Mleash,14.8361,Manta,Passing,1976.442,S,L,N
+41,1,Mleash,15.0236,Manta,Passing,1785.097,S,M,N
+41,1,Mleash,15.3311,Manta,Passing,2056.006,S,M,N
+41,1,Mleash,15.5217,Manta,Passing,1265.485,S,M,N
+41,1,Mleash,15.7709,Manta,Passing,1741.286,S,M,N
+41,1,Mleash,16.032,Manta,Passing,2158.715,S,M,N
+41,1,Mleash,16.3628,Manta,Passing,3050.344,S,M,N
+41,2,Wax,2.7589,Anchor,Passing,3338.473,D,L,N
+41,2,Wax,3.7978,Anchor,Passing,2025.58,V,L,N
+41,2,Wax,4.7275,Anchor,Passing,1976.551,V,L,N
+41,2,Wax,4.9136,Anchor,Passing,887.901,S,M,Y
+41,2,Wax,5.8536,Backscratch,Feeding,0,S,H,N
+41,3,Mband,1.8567,Manta,Passing,857.764,S,M,N
+41,3,Mband,2.4725,Manta,Passing,3002.186,S,M,N
+41,3,Mband,3.5297,Manta,Passing,2662.948,S,M,N
+41,3,Mband,6.4197,Manta,Passing,4550.63,D,L,N
+41,3,Mband,6.7731,Manta,Passing,865.215,S,M,N
+41,3,Mband,6.8433,Manta,Passing,1235.901,S,H,N
+41,3,Mband,7.0745,Manta,Passing,1505.711,S,M,Y
+41,3,Mband,7.2756,Manta,Feeding,0,S,H,N
+41,3,Mband,7.4842,Manta,Passing,1023.752,S,H,Y
+41,3,Mband,8.0111,Manta,Passing,1062.643,S,M,N
+41,3,Mband,9.53,Curl,Passing,993.174,S,M,N
+41,3,Mband,9.6497,Curl,Passing,1726.736,S,M,N
+41,3,Mband,9.827,Curl,Feeding,0,S,H,N
+41,3,Mband,10.0778,Curl,Passing,824.178,S,M,N
+41,3,Mband,10.1692,Curl,Feeding,0,S,H,N
+41,3,Mband,10.807,Curl,Passing,1290.728,S,M,N
+41,3,Mband,10.9234,Curl,Feeding,0,S,H,N
+41,3,Mband,11.3203,Curl,Passing,1331.307,V,M,N
+41,3,Mband,11.6659,Curl,Passing,1410.967,S,M,N
+41,3,Mband,11.9072,Curl,Feeding,0,S,H,N
+41,3,Mband,12.3059,Curl,Feeding,0,S,H,N
+41,3,Mband,12.9564,Curl,Passing,3033.346,D,L,N
+41,3,Mband,13.7642,Curl,Feeding,0,S,H,N
+41,3,Mband,14.1003,Curl,Feeding,0,S,H,N
+41,4,SS,0.9633,Backscratch,Passing,2247.048,D,L,Y
+41,4,SS,2.0417,Backscratch,Passing,3576.519,D,L,N
+41,4,SS,2.1814,Backscratch,Passing,3437.963,D,L,N
+41,4,SS,4.7889,Backscratch,Passing,3339.16,D,L,N
+41,4,SS,5.0656,Backscratch,Passing,4447.723,S,M,N
+41,4,SS,9.9906,Anchor,Passing,3702.918,D,L,N
+41,4,SS,15.0739,Manta,Passing,2407.927,D,L,N
+41,4,SS,15.2792,Manta,Passing,2747.445,S,M,N
+41,4,SS,15.5103,Manta,Passing,1527.99,S,M,N
+41,4,SS,15.62,Manta,Passing,1186.852,S,M,Y
+41,4,SS,15.7492,Manta,Passing,725.965,S,M,Y
+41,4,SS,15.875,Manta,Passing,1480.401,S,M,Y
+41,4,SS,16.0353,Manta,Passing,729.387,S,M,Y
+41,4,SS,16.1517,Manta,Passing,1084.684,S,M,Y
+41,4,SS,16.3973,Manta,Passing,938.668,S,H,Y
+41,4,SS,16.5956,Manta,Passing,1792.516,S,M,N
+41,4,SS,16.9484,Manta,Feeding,0,S,H,Y
+41,4,SS,17.2423,Manta,Passing,3686.259,D,L,N
+41,5,Rpela,0.2142,Curl,Passing,1372.849,S,M,N
+41,5,Rpela,0.5706,Curl,Feeding,0,S,H,N
+41,5,Rpela,0.6608,Manta,Passing,NA,S,H,N
+41,5,Rpela,11.1153,Manta,Passing,1485.544,S,M,N
+41,5,Rpela,11.6159,Manta,Passing,1004.369,S,M,N
+41,5,Rpela,12.2189,Manta,Passing,3733.139,S,M,N
+41,5,Rpela,12.8961,Manta,Passing,1915.149,S,M,N
+41,5,Rpela,13.5409,Manta,Passing,2801.376,S,M,N
+41,5,Rpela,13.8017,Manta,Passing,2306.95,S,L,N
+41,6,Control,0.4358,Curl,Passing,NA,S,M,N
+41,6,Control,0.6631,Curl,Feeding,0,S,H,N
+42,1,Wax,1.9494,Claw,Passing,2014.511,S,H,N
+42,1,Wax,2.2328,Claw,Passing,891.581,S,H,N
+42,1,Wax,2.8622,Turkey,Passing,3512.51,D,L,N
+42,1,Wax,3.2072,Turkey,Passing,2580.305,D,L,N
+42,1,Wax,3.482,Turkey,Feeding,0,S,H,N
+42,2,Control,5.5442,Claw,Passing,930.478,S,H,N
+42,2,Control,5.7928,Turkey,Passing,1843.276,D,L,N
+42,2,Control,7.2478,Claw,Passing,327.227,S,H,N
+42,2,Control,8.2806,Turkey,Passing,2239.004,D,L,N
+42,2,Control,8.7231,Turkey,Passing,1915.119,D,L,N
+42,2,Control,10.8411,Turkey,Passing,1333.945,S,M,N
+42,2,Control,10.9872,Turkey,Passing,797.98,S,M,N
+42,2,Control,11.1803,Turkey,Feeding,0,S,H,N
+42,3,Rpela,2.0586,Turkey,Passing,2314.82,S,M,N
+42,3,Rpela,2.1239,Turkey,Feeding,0,S,H,N
+42,4,SS,1.2719,Turkey,Passing,2386.372,D,M,N
+42,4,SS,1.5175,Turkey,Passing,NA,D,L,N
+42,4,SS,1.7797,Turkey,Passing,3479.518,D,L,N
+42,4,SS,2.0097,Turkey,Passing,2824.148,D,L,N
+42,4,SS,2.2842,Turkey,Passing,3486.518,D,L,Y
+42,4,SS,2.4792,Turkey,Passing,2669.985,S,L,N
+42,4,SS,2.8953,Turkey,Passing,1787.773,D,L,N
+42,4,SS,3.1517,Turkey,Passing,1796.589,S,M,N
+42,4,SS,3.4322,Turkey,Passing,2578.825,D,M,Y
+42,4,SS,3.6595,Turkey,Passing,1892.979,D,L,N
+42,4,SS,3.8586,Turkey,Passing,2167.388,D,L,N
+42,4,SS,4.0547,Turkey,Passing,1309.603,D,M,N
+42,4,SS,4.2658,Turkey,Passing,1327.644,D,M,N
+42,4,SS,4.4917,Turkey,Passing,1922.745,D,M,N
+42,4,SS,4.6942,Turkey,Passing,1858.894,S,M,N
+42,4,SS,5.5756,Turkey,Passing,2307.282,V,M,Y
+42,4,SS,7.3808,Turkey,Passing,NA,D,L,N
+42,4,SS,7.9992,Turkey,Passing,NA,D,L,N
+42,4,SS,8.5314,Turkey,Passing,2076.576,S,M,N
+42,4,SS,8.7389,Turkey,Passing,2204.713,D,L,N
+42,5,Mleash,1.2636,Claw,Passing,2648.107,S,H,N
+42,5,Mleash,3.7303,Claw,Passing,618.833,S,H,Y
+42,5,Mleash,4.1311,Claw,Passing,322.997,S,H,N
+42,5,Mleash,4.2258,Claw,Passing,585.664,S,H,N
+42,5,Mleash,4.8272,Claw,Passing,1956.038,S,M,N
+42,5,Mleash,5.2706,Claw,Feeding,0,S,H,N
+42,6,Mband,1.4983,Henry,Passing,3247.917,S,M,N
+42,6,Mband,1.9228,Claw,Passing,1744.642,D,L,N
+42,6,Mband,2.6283,Claw,Passing,564.704,S,H,N
+42,6,Mband,2.9389,Claw,Passing,637.014,S,H,Y
+42,6,Mband,3.5145,Claw,Feeding,0,S,H,N
+42,6,Mband,4.8542,Claw,Feeding,0,S,H,N
+43,1,Wax,3.1592,Henry,Feeding,0,S,M,N
+43,1,Wax,3.2839,Henry,Feeding,0,S,H,N
+43,2,Mleash,1.1061,Henry,Passing,4743.672,D,M,N
+43,2,Mleash,1.46,Henry,Passing,NA,S,M,N
+43,2,Mleash,1.7892,Henry,Passing,1246.404,S,L,N
+43,2,Mleash,7.9086,Henry,Passing,NA,D,L,N
+43,2,Mleash,13.7072,Henry,Passing,2209.107,S,M,N
+43,2,Mleash,14.0425,Henry,Passing,907.089,S,M,N
+43,2,Mleash,14.4292,Henry,Passing,632.297,S,M,N
+43,2,Mleash,14.9523,Turkey,Feeding,0,S,H,N
+43,3,SS,2.9408,Turkey,Passing,3205.891,D,L,N
+43,3,SS,3.1933,Turkey,Passing,4141.548,D,L,N
+43,3,SS,3.84,Turkey,Passing,3637.403,D,L,N
+43,3,SS,3.9897,Turkey,Passing,2141.393,D,L,N
+43,3,SS,5.1511,Turkey,Passing,NA,D,L,N
+43,3,SS,5.7745,Turkey,Passing,4799.309,D,L,N
+43,3,SS,6.7833,Turkey,Passing,3369.398,D,L,N
+43,3,SS,6.9439,Turkey,Passing,1818.876,D,L,N
+43,3,SS,10.2003,Turkey,Passing,2785.712,D,L,N
+43,3,SS,10.6842,Claw,Passing,1639.21,S,M,Y
+43,3,SS,10.8325,Turkey,Passing,3519.147,D,L,N
+43,3,SS,11.587,Turkey,Passing,4461.34,D,L,N
+43,3,SS,11.8795,Turkey,Passing,3924.563,D,L,N
+43,3,SS,12.65,Turkey,Passing,NA,D,L,N
+43,3,SS,12.7922,Turkey,Passing,1680.264,D,L,N
+43,3,SS,13.4245,Turkey,Passing,4240.611,D,L,N
+43,4,Mband,0.9367,Phineas,Passing,1145.572,S,M,Y
+43,4,Mband,1.7992,Phineas,Passing,3360.662,S,M,N
+43,4,Mband,1.8761,Phineas,Passing,881.069,S,H,N
+43,4,Mband,3.1161,unknown,Passing,NA,D,L,N
+43,4,Mband,4.5958,Phineas,Passing,1176.555,S,M,N
+43,4,Mband,5.1595,unknown,Passing,NA,D,L,N
+43,4,Mband,11.5711,unknown,Passing,3294.305,D,L,N
+43,4,Mband,12.7409,unknown,Passing,8938.037,D,L,N
+43,4,Mband,13.9917,Turkey,Passing,1059.87,V,H,Y
+43,4,Mband,14.1314,Turkey,Passing,2058.132,S,M,N
+43,5,Rpela,0.9236,Turkey,Passing,NA,S,M,N
+43,5,Rpela,1.8231,Turkey,Passing,2778.399,D,L,N
+43,5,Rpela,2.23,Turkey,Feeding,0,S,H,N
+43,6,Control,1.1597,Turkey,Passing,1182.902,S,M,N
+43,6,Control,1.6969,Turkey,Passing,3340.575,D,L,N
+43,6,Control,2.5933,Turkey,Passing,3106.331,D,L,N
+43,6,Control,4.3939,Turkey,Passing,5026.835,D,L,N
+43,6,Control,5.0508,Turkey,Passing,3241.822,D,L,N
+43,6,Control,5.1972,Turkey,Passing,1813.635,D,L,N
+43,6,Control,6.2183,Turkey,Passing,5123.56,D,L,N
+43,6,Control,6.4047,Turkey,Passing,1094.307,S,M,N
+43,6,Control,6.842,Turkey,Feeding,0,S,H,N
+44,1,Control,2.0508,Turkey,Feeding,0,S,H,N
+44,2,SS,1.5369,unknown,Passing,5199.489,S,L,N
+44,2,SS,3.7586,Turkey,Passing,NA,D,L,N
+44,2,SS,4.8267,Turkey,Passing,2551.753,D,M,N
+44,2,SS,5.337,Turkey,Passing,3626.55,D,L,N
+44,2,SS,7.3853,Turkey,Passing,3947.476,D,L,N
+44,2,SS,7.7281,Turkey,Passing,2608.267,D,L,N
+44,2,SS,8.0153,Turkey,Passing,3175.483,D,L,N
+44,2,SS,8.242,Turkey,Passing,4393.774,D,L,N
+44,2,SS,8.3942,Turkey,Passing,1996.48,D,L,N
+44,2,SS,8.5659,Turkey,Passing,1796.955,D,M,N
+44,2,SS,8.9703,Turkey,Passing,3373.074,D,L,N
+44,2,SS,10.7986,Turkey,Passing,2037.974,V,M,N
+44,2,SS,11.2442,Turkey,Passing,NA,D,M,N
+44,2,SS,11.4322,Turkey,Passing,2318.884,D,L,N
+44,3,Rpela,5.3333,Turkey,Passing,1242.819,V,M,N
+44,3,Rpela,5.8895,Turkey,Passing,NA,D,L,N
+44,3,Rpela,6.7233,Turkey,Passing,3270.949,D,L,N
+44,3,Rpela,10.2417,Turkey,Passing,2892.864,D,L,N
+44,3,Rpela,10.3511,Turkey,Passing,NA,S,H,N
+44,3,Rpela,10.5559,Turkey,Feeding,0,S,H,N
+44,4,Mband,2.5214,Turkey,Passing,NA,S,H,N
+44,4,Mband,3.075,Turkey,Feeding,0,S,H,N
+44,5,Wax,0.3581,Turkey,Passing,NA,S,H,N
+44,5,Wax,2.0331,Turkey,Feeding,0,S,H,N
+44,6,Mleash,0.8361,Turkey,Feeding,0,S,H,N
+45,1,Control,1.0919,Turkey,Feeding,0,S,H,N
+45,2,SS,3.4356,Turkey,Passing,3816.375,D,M,N
+45,2,SS,4.1889,Turkey,Passing,3246.513,D,M,N
+45,2,SS,5.422,Turkey,Passing,NA,D,L,N
+45,2,SS,6.6647,Turkey,Passing,2812.199,D,L,N
+45,2,SS,7.2933,Turkey,Passing,4600.833,D,L,N
+45,2,SS,11.0292,Turkey,Passing,2884.516,D,L,N
+45,3,Mleash,2.98,Cupid,Feeding,0,S,H,N
+45,4,Rpela,2.7772,Turkey,Passing,1232.282,S,H,N
+45,4,Rpela,5.2039,Turkey,Passing,1318.294,D,M,Y
+45,4,Rpela,9.0209,Turkey,Feeding,0,S,H,Y
+45,4,Rpela,9.7367,Turkey,Feeding,0,S,H,N
+45,5,Mband,0.8119,Turkey,Feeding,0,S,H,N
+45,5,Mband,1.3503,Turkey,Feeding,0,S,H,N
+45,6,Wax,0.3414,Turkey,Passing,1411.45,S,M,N
+45,6,Wax,0.925,Turkey,Passing,629.048,S,M,N
+45,6,Wax,3.5061,Turkey,Feeding,0,S,H,N
+46,1,Mband,0.4969,Higgins,Passing,4161.595,D,L,N
+46,1,Mband,4.3805,Higgins,Passing,2332.438,V,H,N
+46,1,Mband,5.7972,Higgins,Passing,NA,D,L,N
+46,1,Mband,6.0722,Higgins,Passing,NA,V,H,N
+46,1,Mband,6.4316,Higgins,Passing,NA,V,H,N
+46,1,Mband,6.82,Higgins,Passing,NA,V,M,N
+46,1,Mband,7.2025,Higgins,Passing,3794.963,V,M,N
+46,1,Mband,7.6308,Higgins,Passing,NA,V,M,N
+46,1,Mband,7.7394,Higgins,Passing,2566.773,D,M,N
+46,1,Mband,8.4416,Higgins,Passing,2795.967,V,M,N
+46,1,Mband,10.1338,Higgins,Passing,2332.709,V,H,N
+46,1,Mband,10.3188,Higgins,Feeding,0,S,H,N
+46,2,Rpela,0.3936,Higgins,Passing,NA,V,H,N
+46,2,Rpela,11.8377,Higgins,Passing,3665.888,V,M,N
+46,2,Rpela,11.9575,Higgins,Passing,4936.972,D,M,N
+46,2,Rpela,13.1249,Higgins,Passing,960.799,V,H,N
+46,2,Rpela,13.4974,Higgins,Feeding,0,V,H,N
+46,2,Rpela,13.6252,Higgins,Feeding,0,S,H,N
+46,2,Rpela,13.7994,Higgins,Feeding,0,S,H,N
+46,3,SS,0.3375,Higgins,Passing,1716.1,S,H,N
+46,3,SS,0.3497,Tasmania,Passing,79.869,S,H,N
+46,3,SS,0.4481,Tasmania,Feeding,0,S,H,N
+46,4,Control,0.6147,Tasmania,Feeding,0,S,H,N
+46,4,Control,0.7114,Tasmania,Feeding,0,S,H,N
+46,5,Mleash,0.1333,Higgins,Passing,2207.685,D,H,N
+46,5,Mleash,0.205,Higgins,Feeding,0,S,H,N
+46,6,Wax,1.0206,Tasmania,Feeding,0,S,H,N
+47,1,Mleash,0.0892,Tasmania,Passing,398.328,S,M,N
+47,1,Mleash,0.2683,Tasmania,Feeding,0,S,H,N
+47,1,Mleash,0.4369,Tasmania,Feeding,0,S,H,N
+47,2,Rpela,0.3519,unknown,Passing,NA,D,L,N
+47,2,Rpela,1.3342,Tasmania,Feeding,0,S,H,N
+47,3,Wax,0.6422,Tasmania,Feeding,0,S,H,N
+47,4,Mband,0.2942,Higgins,Feeding,0,S,H,N
+47,5,Control,0.3542,Tasmania,Feeding,0,S,H,N
+47,6,SS,1.7411,Tasmania,Feeding,0,S,H,N
+47,6,SS,1.9058,Tasmania,Passing,2321.52,S,H,N
+47,6,SS,2.0736,Tasmania,Feeding,0,S,H,N
+48,1,SS,0.4311,Tasmania,Passing,596.969,S,H,N
+48,1,SS,0.5617,Tasmania,Feeding,0,S,H,N
+48,2,Wax,0.5231,Butters,Passing,6058.296,S,L,N
+48,2,Wax,1.0064,Butters,Passing,2944.077,D,L,N
+48,2,Wax,2.3714,Tasmania,Passing,4196.496,D,L,N
+48,2,Wax,3.1908,Tasmania,Feeding,0,S,H,N
+48,3,Control,0.3675,Tasmania,Feeding,0,S,H,N
+48,4,Mband,1.0169,Tasmania,Passing,2017.683,S,H,N
+48,4,Mband,1.1806,Tasmania,Passing,808.457,S,H,N
+48,4,Mband,1.405,Tasmania,Feeding,0,S,H,N
+48,5,Rpela,0.3881,Higgins,Feeding,0,S,H,N
+48,6,Mleash,0.8319,Butters,Passing,989.711,S,H,N
+48,6,Mleash,1.3703,Tasmania,Passing,1468.516,D,L,N
+48,6,Mleash,1.5242,Butters,Passing,6675.556,D,L,N
+48,6,Mleash,2.3194,Tasmania,Passing,1819.86,S,M,N
+48,6,Mleash,2.3908,Tasmania,Passing,472.319,S,M,N
+48,6,Mleash,2.6583,Tasmania,Feeding,0,S,H,N
+49,1,Rpela,9.1733,Higgins,Passing,599.885,S,H,N
+49,1,Rpela,9.6744,Higgins,Passing,1258.748,D,M,N
+49,1,Rpela,9.9511,Higgins,Feeding,0,S,H,N
+49,2,Mband,1.5019,Butters,Passing,3879.818,D,L,N
+49,2,Mband,7.3819,Butters,Passing,7421.27,D,L,N
+49,2,Mband,7.6686,Butters,Passing,4279.643,D,M,N
+49,2,Mband,7.8236,Butters,Passing,381.175,S,H,N
+49,2,Mband,8.1608,Butters,Passing,1046.52,S,H,N
+49,2,Mband,8.5261,Butters,Passing,2071.344,S,H,N
+49,2,Mband,8.7922,Butters,Passing,2352.789,S,H,N
+49,2,Mband,9.0225,Butters,Passing,1873.347,S,M,N
+49,2,Mband,9.7869,unknown,Feeding,0,S,H,N
+49,3,SS,8.09,Butters,Passing,5139.173,D,L,N
+49,3,SS,12.0627,Butters,Passing,2820.153,S,M,Y
+49,3,SS,12.298,Butters,Passing,4519.633,D,M,N
+49,3,SS,12.6091,Butters,Passing,4485.897,D,M,N
+49,3,SS,12.8694,Butters,Passing,3275.562,D,M,N
+49,3,SS,13.1399,Butters,Passing,2229.084,D,M,Y
+49,4,Control,0.1853,Butters,Passing,1781.138,S,M,N
+49,4,Control,0.5736,Butters,Passing,1590.124,S,M,N
+49,4,Control,1.6869,Butters,Passing,2852.39,S,M,N
+49,4,Control,1.7919,unknown,Feeding,0,S,H,N
+49,5,Wax,7.1292,Hamburglar,Passing,2136.844,D,M,N
+49,5,Wax,7.4303,unknown,Passing,6336.133,D,L,N
+49,5,Wax,7.797,Hamburglar,Passing,5231.319,D,L,N
+49,5,Wax,8.5675,Hamburglar,Passing,5799.744,D,L,N
+49,5,Wax,9.4122,Dunk,Passing,2819.927,D,M,N
+49,5,Wax,11.2125,Dunk,Passing,2265.523,V,M,N
+49,5,Wax,13.6589,Dunk,Passing,6365.698,D,L,N
+49,6,Mleash,0.8847,Ziggy,Passing,3531.419,D,L,N
+49,6,Mleash,1.2911,Ziggy,Passing,6847.166,D,L,N
+49,6,Mleash,3.2011,Ziggy,Passing,4390.415,D,L,N
+49,6,Mleash,4.1267,Ziggy,Passing,6408.48,D,L,N
+49,6,Mleash,4.6353,Ziggy,Passing,2347.525,S,M,N
+49,6,Mleash,4.7111,Ziggy,Feeding,0,S,H,N
+50,1,Wax,0.5133,Everest,Passing,1385.201,S,M,N
+50,1,Wax,0.8967,Everest,Passing,2088.893,S,M,N
+50,1,Wax,1.4094,Everest,Passing,3405.388,D,M,N
+50,1,Wax,1.7364,Everest,Passing,983.16,S,M,N
+50,1,Wax,1.9742,Everest,Passing,415.986,S,H,N
+50,1,Wax,2.0625,Cupid,Passing,8317.982,S,M,N
+50,1,Wax,2.2931,Cupid,Passing,2888.844,D,M,N
+50,1,Wax,2.5119,Everest,Passing,2141.195,D,L,N
+50,1,Wax,4.2222,Everest,Passing,1662.047,S,M,N
+50,1,Wax,4.3358,Everest,Passing,1596.387,S,M,N
+50,1,Wax,4.6192,Everest,Passing,1905.512,S,M,N
+50,1,Wax,4.722,Everest,Passing,2471.312,S,M,N
+50,1,Wax,5.7678,Everest,Passing,1465.901,S,H,N
+50,1,Wax,8.5564,Everest,Passing,1850.038,V,M,N
+50,2,SS,1.0678,Everest,Passing,2685.171,S,M,Y
+50,2,SS,5.4108,Everest,Passing,3324.94,S,M,N
+50,2,SS,6.9045,Hamburglar,Passing,3156.043,V,M,Y
+50,2,SS,7.5881,Cupid,Passing,9164.157,D,L,N
+50,2,SS,8.1847,Cupid,Passing,4763.504,S,M,N
+50,2,SS,8.3872,Everest,Passing,3099.791,S,M,N
+50,2,SS,11.2836,Hamburglar,Passing,1853.461,S,M,Y
+50,2,SS,11.5475,Hamburglar,Passing,2951.909,S,M,N
+50,2,SS,12.0306,Cupid,Passing,6438.16,D,L,N
+50,3,Rpela,1.1497,Spot,Passing,419.515,S,H,N
+50,3,Rpela,1.3558,Spot,Feeding,0,S,H,N
+50,4,Mband,0.3278,Hamburglar,Passing,320.848,S,H,N
+50,4,Mband,0.5522,Hamburglar,Passing,559.642,S,H,N
+50,4,Mband,0.8067,Hamburglar,Feeding,0,S,H,N
+50,5,Mleash,0.1942,Everest,Passing,1702.106,S,M,N
+50,5,Mleash,0.4658,Everest,Passing,4539.874,S,L,N
+50,5,Mleash,0.5636,Hamburglar,Passing,2774.918,S,M,N
+50,5,Mleash,1.5128,Hamburglar,Feeding,0,S,H,N
+50,6,Control,1.0044,Everest,Passing,2182.563,S,M,N
+50,6,Control,1.7781,Everest,Passing,2324.396,D,M,N
+50,6,Control,2.0714,Everest,Passing,3563.996,S,M,N
+50,6,Control,2.5314,Everest,Passing,2039.075,D,M,N
+50,6,Control,3.8461,Spot,Passing,2064.801,D,M,N
+50,6,Control,4.0106,Spot,Passing,1708.122,S,M,N
+50,6,Control,4.6481,Spot,Passing,1059.492,S,M,N
+50,6,Control,4.8136,Everest,Passing,3151.104,D,L,N
+50,6,Control,5.5578,Spot,Passing,2066.218,S,M,N
+50,6,Control,7.727,Everest,Passing,3246.671,D,L,N
+50,6,Control,9.3409,Spot,Passing,1708.695,S,M,N
+50,6,Control,9.5356,Spot,Passing,1036.037,S,M,N
+50,6,Control,10.3892,Spot,Passing,1693.641,D,M,N
+50,6,Control,11.952,Spot,Passing,1525.334,D,M,N
+50,6,Control,12.4186,Everest,Passing,3387.679,D,M,N
+50,6,Control,12.7592,Everest,Passing,2591.008,S,M,N
+50,6,Control,13.0831,Spot,Passing,4075.358,S,M,N
+50,6,Control,13.2289,Spot,Passing,2489.834,S,M,N
+50,6,Control,13.3597,Spot,Passing,1310.908,S,M,N
+50,6,Control,13.5867,Spot,Passing,1608.615,S,M,N
+50,6,Control,14.1489,Spot,Passing,1772.36,V,M,N
+50,6,Control,14.752,Hamburglar,Feeding,0,S,H,N
