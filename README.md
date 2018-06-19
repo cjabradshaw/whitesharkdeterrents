@@ -15,9 +15,9 @@ Includes files:
 - 'new_lmer_AIC_tables3.R' (R code) - functions to compare generalised linear mixed-effects models
 - 'r.squared.R' (R code) - functions to estimate R2 for mixed-effects models
 
-
+We
 ###############################################################
 
-NOTE: We have withheld all data files ('dist_data.csv', 'TF_data.csv', 'Binomial_data.csv', 'NoApp_data.csv') needed to run these analyses for IP reasons. If you would like to access these data files, contact Charlie Huveneers (charlie.huveneers@flinders.edu.au) or Corey Bradshaw (corey.bradshaw@flinders.edu.au) explaining your intended uses for the data and code listed here.
+NOTE: The data files ('dist_data.csv', 'TF_data.csv', 'Binomial_data.csv', 'NoApp_data.csv') needed to run these analyses have now been uploaded. However, if you would like to use these data files, contact Charlie Huveneers (charlie.huveneers@flinders.edu.au) or Corey Bradshaw (corey.bradshaw@flinders.edu.au) explaining your intended uses for the data and code listed here, and to ask for permission. Thank you.
 
 ###############################################################
