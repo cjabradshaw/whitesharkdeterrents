@@ -10,7 +10,7 @@ Full report for citation: https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0007
 *** NOTE *** This report has now been published in the peer-reviewed journal PeerJ: 
 Huveneers, C, S Whitmarsh, M Thiele, L Meyer, A Fox, CJA Bradshaw. 2018. Effectiveness of five personal shark-bite deterrents for surfers. PeerJ 6: e5554 http://doi.org/10.7717/peerj.5554
 
-R code (by Corey Bradshaw @ Flinders University, Adelaide, Australia — corey.bradshaw@flinders.edu.au) to analysis deterrent trials for devices used to reduce the incidence of white shark (Carcharodon carcharias) attacks
+R code (by Corey Bradshaw @ Flinders University, Adelaide, Australia — corey.bradshaw@flinders.edu.au) to analyse deterrent trials for devices used to reduce the incidence of white shark (Carcharodon carcharias) attacks
 
 Includes files:
 
