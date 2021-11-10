@@ -1,4 +1,5 @@
 # Response of white sharks exposed to newly developed personal shark deterrents
+<img align="right" src="Shak deterrent testing diagram.jpg" alt="deterrents" width="200" style="margin-top: 20px">
 
 R code (by Corey Bradshaw @ Flinders University, Adelaide, Australia — <a href="mailto:corey.bradshaw@flinders.edu.au">e-mail</a>) to analyse deterrent trials for devices used to reduce the incidence of white shark (<em>Carcharodon carcharias</em>) attacks
 
