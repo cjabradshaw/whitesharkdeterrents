@@ -38,3 +38,5 @@ NOTE: The following data files needed to run these analyses have now been upload
 - <code>boot</code>
 - <code>Hmisc</code>
 - <code>ggplot2</code>
+- <code>tcltk</code>
+- <code>plyr</code>
