@@ -28,9 +28,7 @@ The number of shark-human interactions and shark bites per capita has been incre
 ## Data files
 NOTE: The following data files needed to run these analyses have now been uploaded. However, if you would like to use these files, contact <a href="mailto:charlie.huveneers@flinders.edu.au">Charlie Huveneers</a> or <a href="mailto:corey.bradshaw@flinders.edu.au">Corey Bradshaw</a>, explaining your intended uses for the data and code listed here, and to ask for permission. Thank you.<br>
 
-- 'dist_data.csv'
-- 'TF_data.csv'
-- 'Binomial_data.csv'
-- 'NoApp_data.csv'
-
-###############################################################
+- dist_data.csv
+- TF_data.csv
+- Binomial_data.csv
+- NoApp_data.csv
