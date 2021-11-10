@@ -32,3 +32,9 @@ NOTE: The following data files needed to run these analyses have now been upload
 - TF_data.csv
 - Binomial_data.csv
 - NoApp_data.csv
+
+## Required R libraries
+- <code>lme4</code>
+- <code>boot</code>
+- <code>Hmisc</code>
+- <code>ggplot2</code>
